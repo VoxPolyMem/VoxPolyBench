@@ -1,6 +1,0 @@
-# Optional acoustic speaker matching. Use Python 3.12, matching frozen v1.
-numpy>=2,<3
-soundfile>=0.12,<1
-scipy>=1.12,<2
-torch>=2,<3
-speechbrain>=1,<2
