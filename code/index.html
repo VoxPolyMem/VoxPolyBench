@@ -13,13 +13,13 @@
   <main id="main" class="interior wrap">
     <p class="eyebrow">02 / REPRODUCIBILITY</p>
     <h1 class="page-title">From audio to<br><em>long-term memory.</em></h1>
-    <p class="page-lead">The research implementation spans dataset construction, speaker-aware ingestion, and evaluation. This site currently releases a one-case audio preview; the full research code is not published yet.</p>
+    <p class="page-lead">The frozen VoxPolyMem v1 method and a separate audio-first interactive demo are now available in the project repository. The full benchmark data are not included in this one-case preview.</p>
     <div class="code-grid">
-      <article class="code-card"><span>01 / DATA</span><h2>Build &amp; validate</h2><p>Case JSON, fixed participant voices, speech synthesis, transcription checks, and audio manifests.</p></article>
-      <article class="code-card"><span>02 / MEMORY</span><h2>Identify &amp; write</h2><p>Online acoustic speaker identity, name grounding, addressee inference, and structured memory updates.</p></article>
-      <article class="code-card"><span>03 / EVALUATION</span><h2>Answer &amp; score</h2><p>Question manifests, evidence-grounded answering, baselines, and speaker ablations.</p></article>
+      <article class="code-card"><span>01 / METHOD</span><h2>Frozen v1</h2><p>Shared hierarchical memory, online speaker identity, model-guided retrieval, and benchmark adapters.</p></article>
+      <article class="code-card"><span>02 / DEMO</span><h2>Interact live</h2><p>Record a turn, inspect grounded memory and speaker profiles, then trace retrieval and answers locally.</p></article>
+      <article class="code-card"><span>03 / REPLAY</span><h2>Verify scores</h2><p>Run tests and recalculate published aggregates from score-only per-question records.</p></article>
     </div>
-    <div class="release-note">The <a href="https://github.com/VoxPolyMem/VoxPolyBench" target="_blank" rel="noopener">project repository</a> contains this preview website and compressed example audio. Dataset-generation, memory-system, and evaluation code will be linked here when their release packages are ready.</div>
+    <div class="release-note">Explore the <a href="https://github.com/VoxPolyMem/VoxPolyBench/tree/main/release/voxpolymem_code" target="_blank" rel="noopener">frozen method and evaluation code</a> or run the <a href="https://github.com/VoxPolyMem/VoxPolyBench/tree/main/release/voxpolymem_live_demo" target="_blank" rel="noopener">audio-first memory demo</a>. The score-only replay archive reproduces reported aggregate calculations; live model calls may vary.</div>
   </main>
   <footer class="footer wrap"><span>VoxPolyBench · Research preview</span><a href="../datasets/">Dataset profile ↗</a></footer>
 </body>

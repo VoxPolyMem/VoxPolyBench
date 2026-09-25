@@ -1,6 +1,8 @@
 # VoxPolyBench website preview
 
-This repository hosts a static research-preview website with one selected, synthesized-audio history. It includes eight compressed dialogue sessions, ten spoken personalized questions, 480 dialogue turns, and 75 question–answer examples for that history. It is not the full benchmark or the VoxPolyMem implementation.
+This repository hosts a static research-preview website with one selected, synthesized-audio history. It includes eight compressed dialogue sessions, ten spoken personalized questions, 480 dialogue turns, and 75 question–answer examples for that history. The full benchmark data are not included.
+
+The frozen VoxPolyMem v1 research implementation and the interactive, audio-first demo are packaged separately under [`release/voxpolymem_code/`](release/voxpolymem_code/) and [`release/voxpolymem_live_demo/`](release/voxpolymem_live_demo/). The demo imports the frozen core when the folders remain siblings; it does not change benchmark results. Start with each folder's README. The public replay archive contains only per-question scores, not benchmark questions, answers, predictions, or dialogue evidence.
 
 Once GitHub Pages is enabled for the `main` branch at the repository root, the site is available at [voxpolymem.github.io/VoxPolyBench](https://voxpolymem.github.io/VoxPolyBench/).
 
