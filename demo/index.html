@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A family-trip case study with spoken dialogue and real VoxPolyBench questions.">
+  <title>Demo — VoxPolyBench</title>
+  <link rel="stylesheet" href="../styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="header wrap"><a class="brand" href="../"><span class="brand-wave" aria-hidden="true">▂▅█▅▂</span> VoxPoly<span>Bench</span></a><nav class="page-nav" aria-label="Main navigation"><a href="../">Home</a><a href="./" aria-current="page">Demo</a><a href="../code/">Code</a><a href="../datasets/">Datasets</a></nav></header>
+  <main id="main" class="interior wrap">
+    <p class="eyebrow">01 / LIVE CASE STUDY</p>
+    <h1 class="page-title">A family trip,<br><em>remembered.</em></h1>
+    <p class="page-lead">A family and their travel contacts return across eight conversations. The questions below are exact benchmark samples, with reference answers revealed on demand. <a class="inline-link" href="../explore/">Browse all QA and dialogue ↗</a></p>
+    <div class="content-grid">
+      <section class="panel" aria-labelledby="listen-title">
+        <h2 id="listen-title">Listen across sessions</h2>
+        <p>480 dialogue turns, presented as eight session-level audio files. Short pauses preserve turn boundaries in the compressed demo.</p>
+        <div class="pill-row"><span>8 sessions</span><span>480 turns</span><span>75 QA instances</span></div>
+        <p class="listen-state" id="audio-status" role="status">Checking audio files…</p>
+        <div class="audio-list" id="audio-sessions"></div>
+        <details class="spoken" id="spoken-questions" hidden><summary>Listen to 10 personalized spoken questions</summary><div id="audio-questions"></div></details>
+        <p class="note">The demo audio is synthesized speech. The complete benchmark contains 18 cases; only this case is selected for public playback.</p>
+      </section>
+      <section class="panel" aria-labelledby="questions-title">
+        <h2 id="questions-title">Questions grounded in the trip</h2>
+        <p>These items test who spoke to whom, what changed, and what each participant prefers.</p>
+        <div class="qa">
+          <details><summary><small>SPEAKER ATTRIBUTION</small>Who asked about arranging a taxi van for the return trip?</summary><p>Nora Patel</p></details>
+          <details><summary><small>ADDRESSEE ATTRIBUTION</small>Who was Nora Patel speaking to when she said she’d really like a quiet room away from the elevator?</summary><p>Tessa Kim</p></details>
+          <details><summary><small>MULTI-HOP</small>Where can you stay to avoid elevator noise and what time is the walking tour that keeps you dry?</summary><p>a quiet room away from the elevator; a 3 p.m. walking tour</p></details>
+          <details><summary><small>MEMORY UPDATE</small>What is the later plan after the earlier 11:30 entry slot?</summary><p>a 3 p.m. walking tour</p></details>
+          <details><summary><small>PERSONALIZATION</small>What kind of update did I say I prefer?</summary><p>a written itinerary</p></details>
+        </div>
+        <p class="note">Reference answers are hidden until opened. These questions are from the accepted family-trip case.</p>
+      </section>
+    </div>
+  </main>
+  <footer class="footer wrap"><span>VoxPolyBench · Controlled synthesized speech</span><a href="../datasets/">Dataset profile ↗</a></footer>
+</body>
+</html>

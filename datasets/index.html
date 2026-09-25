@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="VoxPolyBench: long-term memory over recurring, multi-party spoken histories.">
+  <meta name="theme-color" content="#f7f5ef">
+  <title>VoxPolyBench — Spoken memory, across people and time</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="../" aria-label="VoxPolyBench home">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+      <span>VoxPoly<span class="brand-accent">Bench</span></span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="../">Home</a>
+      <a href="../demo/">Demo</a>
+      <a href="../code/">Code</a>
+      <a href="#statistics">Statistics</a>
+      <a href="#scenarios">Cases</a>
+    </nav>
+    <span class="header-status"><span class="status-dot"></span> Research preview</span>
+  </header>
+
+  <main id="main">
+    <section class="hero section-shell" id="top" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-line"></span> A BENCHMARK FOR MULTI-PARTY SPOKEN MEMORY</p>
+        <h1 id="hero-title">Remember the <em>conversation.</em><br>Remember <em>who.</em></h1>
+        <p class="hero-description">VoxPolyBench tests long-term memory in spoken histories where the same people return, facts change, and the answer depends on who said what to whom.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#overview">Explore the benchmark <span aria-hidden="true">↗</span></a>
+          <a class="button button-text" href="#statistics">View dataset statistics <span aria-hidden="true">↓</span></a>
+        </div>
+        <p class="hero-note">Controlled, synthesized speech across recurring participants and sessions.</p>
+      </div>
+      <div class="hero-visual" aria-label="Illustration of recurring speaker turns across sessions">
+        <div class="visual-topline"><span>MULTI-SESSION HISTORY</span><span>SESSIONS ACROSS TIME</span></div>
+        <div class="session-block">
+          <span class="session-label">SESSION 01</span>
+          <div class="turn turn-a"><span class="avatar avatar-a">A</span><span class="wave wave-a"></span><span class="turn-time">00:12</span></div>
+          <div class="turn turn-b"><span class="avatar avatar-b">B</span><span class="wave wave-b"></span><span class="turn-time">00:28</span></div>
+          <div class="turn turn-c"><span class="avatar avatar-c">C</span><span class="wave wave-c"></span><span class="turn-time">00:46</span></div>
+        </div>
+        <div class="memory-line"><span></span><strong>Persistent people. Evolving facts.</strong><span></span></div>
+        <div class="session-block later">
+          <span class="session-label">SESSION 08</span>
+          <div class="turn turn-b"><span class="avatar avatar-b">B</span><span class="wave wave-b second"></span><span class="turn-time">18:34</span></div>
+          <div class="turn turn-a"><span class="avatar avatar-a">A</span><span class="wave wave-a second"></span><span class="turn-time">18:51</span></div>
+        </div>
+        <div class="question-card"><span class="question-symbol">?</span><span>What changed, and who should know?</span></div>
+      </div>
+    </section>
+
+    <section class="metric-strip" aria-label="Dataset at a glance">
+      <div class="section-shell metric-grid">
+        <div><strong>18</strong><span>longitudinal scenarios</span></div>
+        <div><strong>176</strong><span>conversation sessions</span></div>
+        <div><strong>9,599</strong><span>spoken dialogue turns</span></div>
+        <div><strong>1,527</strong><span>question–answer instances</span></div>
+        <div><strong>18.9<span class="unit">h</span></strong><span>dialogue audio</span></div>
+      </div>
+    </section>
+
+    <section class="section-shell content-section overview-section" id="overview" aria-labelledby="overview-title">
+      <div class="section-intro">
+        <p class="eyebrow">01 / THE BENCHMARK</p>
+        <h2 id="overview-title">Memory is social.<br><em>Speech makes it harder.</em></h2>
+        <p>Each scenario follows a recurring group through 8 to 12 sessions. A system must connect voices and participants over time, track changing information, and answer questions grounded in the shared history.</p>
+      </div>
+      <div class="feature-grid">
+        <article class="feature-card"><span class="feature-number">01</span><div class="feature-icon icon-voice" aria-hidden="true">◌</div><h3>Recurring speakers</h3><p>Participants return across sessions with stable voices, creating an identity thread through the history.</p></article>
+        <article class="feature-card"><span class="feature-number">02</span><div class="feature-icon icon-time" aria-hidden="true">↗</div><h3>Evolving memory</h3><p>Plans, preferences, and facts are updated, contradicted, and resolved over multiple conversations.</p></article>
+        <article class="feature-card"><span class="feature-number">03</span><div class="feature-icon icon-relation" aria-hidden="true">↔</div><h3>Directed interaction</h3><p>Questions may depend on the source speaker, the addressee, or who should receive a response.</p></article>
+        <article class="feature-card"><span class="feature-number">04</span><div class="feature-icon icon-person" aria-hidden="true">◎</div><h3>Personalized answers</h3><p>The same shared history can support different answers for different participants.</p></article>
+      </div>
+    </section>
+
+    <section class="statistics-section" id="statistics" aria-labelledby="statistics-title">
+      <div class="section-shell">
+        <div class="section-heading-row"><div><p class="eyebrow">02 / DATASET PROFILE</p><h2 id="statistics-title">Built as histories,<br><em>measured as histories.</em></h2></div><p>These figures describe the accepted 18-scenario catalog. The speech is synthesized from fixed participant reference voices; the benchmark evaluates controlled spoken-memory conditions.</p></div>
+        <div class="figure-grid">
+          <figure class="figure-card history-figure"><div class="figure-frame"><a href="./assets/history_scale.png" target="_blank" rel="noopener" aria-label="Open the history-scale figure at full size"><img src="./assets/history_scale.png" alt="Duration and number of dialogue turns across 18 histories" loading="lazy"></a></div><figcaption><span>01 / HISTORY SCALE</span>Duration and turn count across the 18 case histories.</figcaption></figure>
+          <figure class="figure-card taxonomy-figure"><div class="figure-frame"><a href="./assets/qa_taxonomy.png" target="_blank" rel="noopener" aria-label="Open the question-taxonomy figure at full size"><img src="./assets/qa_taxonomy.png" alt="Nested taxonomy of 1,527 QA instances across four task families and nine fine-grained types" loading="lazy"></a></div><figcaption><span>02 / QUESTION TAXONOMY</span>Four task families, nine fine-grained question types.</figcaption></figure>
+          <figure class="figure-card cloud-figure"><div class="figure-frame"><a href="./assets/dialogue_wordcloud.png" target="_blank" rel="noopener" aria-label="Open the dialogue-term figure at full size"><img src="./assets/dialogue_wordcloud.png" alt="Word cloud of dialogue terms across the dataset" loading="lazy"></a></div><figcaption><span>03 / DIALOGUE DOMAINS</span>Case-balanced terms from dialogue turns only.</figcaption></figure>
+        </div>
+        <div class="task-bars" aria-label="Question-answer distribution by task family">
+          <div class="task-bar"><span>Retrieval &amp; reasoning</span><div><i style="width:29%;background:#6b9ed0"></i></div><strong>443</strong></div>
+          <div class="task-bar"><span>Evolving memory</span><div><i style="width:21.2%;background:#f4a261"></i></div><strong>324</strong></div>
+          <div class="task-bar"><span>Interaction attribution</span><div><i style="width:21.3%;background:#6fad72"></i></div><strong>326</strong></div>
+          <div class="task-bar"><span>Personalized memory</span><div><i style="width:28.4%;background:#ac80af"></i></div><strong>434</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell content-section showcase-section" id="scenarios" aria-labelledby="scenarios-title">
+      <div class="section-heading-row"><div><p class="eyebrow">03 / CASE STUDIES</p><h2 id="scenarios-title">Two histories,<br><em>closer up.</em></h2></div><p>These examples are drawn from two accepted histories. Questions and reference answers are reproduced from the benchmark, not written as illustrative prompts.</p></div>
+      <div class="showcase-grid">
+        <article class="case-study" id="family-city-break">
+          <div class="case-study-top"><span class="case-badge">FEATURED AUDIO STORY</span><span>8 sessions · 480 turns · 75 questions</span></div>
+          <h3>Family city break</h3>
+          <p class="case-summary">A family and travel contacts coordinate trains, hotel rooms and activities as plans evolve across the trip.</p>
+          <div class="case-themes"><span>Family coordination</span><span>Speaker &amp; addressee</span><span>Personalization</span></div>
+          <h4>Example questions</h4>
+          <div class="question-list">
+            <details class="qa-item"><summary><span>Addressee</span>Who was Nora Patel speaking to when she said she’d really like a quiet room away from the elevator?</summary><p class="qa-answer"><strong>Reference answer</strong>Tessa Kim</p></details>
+            <details class="qa-item"><summary><span>Multi-hop</span>Where can you stay to avoid elevator noise and what time is the walking tour that keeps you dry?</summary><p class="qa-answer"><strong>Reference answer</strong>a quiet room away from the elevator; a 3 p.m. walking tour</p></details>
+            <details class="qa-item"><summary><span>Memory update</span>What is the later plan after the earlier 11:30 entry slot?</summary><p class="qa-answer"><strong>Reference answer</strong>a 3 p.m. walking tour</p></details>
+            <details class="qa-item"><summary><span>Personalized</span>What kind of update did I say I prefer?</summary><p class="qa-answer"><strong>Reference answer</strong>a written itinerary</p></details>
+          </div>
+          <div class="audio-panel" aria-labelledby="audio-title"><div class="audio-panel-heading"><div><span class="audio-kicker">LISTEN TO THE HISTORY</span><h4 id="audio-title">Family-trip dialogue</h4></div><span class="audio-format">Session-level MP3</span></div><p id="audio-status" role="status">Checking the audio package…</p><div id="audio-sessions" class="audio-sessions"></div><details id="spoken-questions" class="spoken-questions" hidden><summary>Listen to the 10 personalized questions</summary><div id="audio-questions"></div></details></div>
+        </article>
+        <article class="case-study" id="kitchen-renovation">
+          <div class="case-study-top"><span class="case-badge">CASE STUDY</span><span>8 sessions · 480 turns · 75 questions</span></div>
+          <h3>Kitchen renovation</h3>
+          <p class="case-summary">A shared renovation history where decisions, dates and responsibilities change across conversations.</p>
+          <div class="case-themes"><span>Fact updates</span><span>Multi-hop retrieval</span><span>Interaction attribution</span><span>Personalization</span></div>
+          <h4>Example questions</h4>
+          <div class="question-list">
+            <details class="qa-item"><summary><span>Memory update</span>What was the previous and current outlet count for the kitchen island?</summary><p class="qa-answer"><strong>Reference answer</strong>The kitchen island outlet count was changed from six to eight outlets.</p></details>
+            <details class="qa-item"><summary><span>Multi-hop</span>What is the current outlet count for the kitchen island and the order ID for the change order?</summary><p class="qa-answer"><strong>Reference answer</strong>The kitchen island has eight outlets, and the change order ID is CO-17.</p></details>
+            <details class="qa-item"><summary><span>Interaction</span>When Diego Alvarez asked if the access card could be handed off to subcontractors or had to stay with them, who were they speaking to?</summary><p class="qa-answer"><strong>Reference answer</strong>Carla Rossi</p></details>
+            <details class="qa-item"><summary><span>Personalized</span>What did I agree to take care of after the resident complained about the work?</summary><p class="qa-answer"><strong>Reference answer</strong>I said I would handle the notifications.</p></details>
+          </div>
+        </article>
+      </div>
+      <p class="showcase-footnote">The complete benchmark has 18 histories. This page highlights two; the family-trip history is the selected audio example with dialogue and ten synthesized personalized queries.</p>
+    </section>
+
+    <section class="access-section" id="access" aria-labelledby="access-title"><div class="section-shell access-grid"><div><p class="eyebrow">04 / DATA ACCESS</p><h2 id="access-title">A clear path from<br><em>history to evidence.</em></h2><p>This <a href="https://github.com/VoxPolyMem/VoxPolyBench" target="_blank" rel="noopener">project repository</a> hosts a compressed, session-level audio example for one case. The canonical 18-case dataset, including turn-level WAV files and QA audio, remains a separate release package.</p><div class="access-note"><span class="status-dot"></span><span>Full dataset download has not been published.</span></div></div><div class="structure-card" aria-label="Illustrative website and dataset structure"><div class="structure-top"><span>ILLUSTRATIVE RELEASE STRUCTURE</span><span aria-hidden="true">● ● ●</span></div><pre>GitHub Pages /
+├─ index.html
+├─ assets / figures
+└─ assets / audio / selected-story
+   ├─ demo_manifest.json
+   ├─ S1–S8.mp3
+   └─ q01–q10.mp3
+
+Full dataset release /
+└─ cases / 18 case directories
+   ├─ full_case.json
+   ├─ audio / turn-level WAV
+   └─ audio_persona / QA WAV</pre><p>The compressed case demo does not replace the canonical turn-level audio.</p></div></div></section>
+  </main>
+
+  <footer class="site-footer"><div class="section-shell footer-inner"><span class="footer-brand">VoxPolyBench</span><span>Multi-party spoken memory · Research preview</span><a href="#top">Back to top ↑</a></div></footer>
+</body>
+</html>

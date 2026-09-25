@@ -1,0 +1,114 @@
+{
+  "case_id": "family-city-break",
+  "source": "canonical dialogue and persona WAV",
+  "sessions": [
+    {
+      "session_id": "S1",
+      "turn_count": 60,
+      "file": "S1.mp3",
+      "duration_sec_approx": 383.8,
+      "bytes": 3071277
+    },
+    {
+      "session_id": "S2",
+      "turn_count": 60,
+      "file": "S2.mp3",
+      "duration_sec_approx": 346.3,
+      "bytes": 2770989
+    },
+    {
+      "session_id": "S3",
+      "turn_count": 60,
+      "file": "S3.mp3",
+      "duration_sec_approx": 343.6,
+      "bytes": 2749869
+    },
+    {
+      "session_id": "S4",
+      "turn_count": 60,
+      "file": "S4.mp3",
+      "duration_sec_approx": 462.1,
+      "bytes": 3697197
+    },
+    {
+      "session_id": "S5",
+      "turn_count": 60,
+      "file": "S5.mp3",
+      "duration_sec_approx": 387.7,
+      "bytes": 3102189
+    },
+    {
+      "session_id": "S6",
+      "turn_count": 60,
+      "file": "S6.mp3",
+      "duration_sec_approx": 380.4,
+      "bytes": 3044013
+    },
+    {
+      "session_id": "S7",
+      "turn_count": 60,
+      "file": "S7.mp3",
+      "duration_sec_approx": 371.6,
+      "bytes": 2973933
+    },
+    {
+      "session_id": "S8",
+      "turn_count": 60,
+      "file": "S8.mp3",
+      "duration_sec_approx": 404.6,
+      "bytes": 3237357
+    }
+  ],
+  "questions": [
+    {
+      "question": "What kind of update did I say I prefer?",
+      "file": "q01.mp3",
+      "bytes": 25005
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "file": "q02.mp3",
+      "bytes": 29229
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "file": "q03.mp3",
+      "bytes": 25581
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "file": "q04.mp3",
+      "bytes": 30189
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "file": "q05.mp3",
+      "bytes": 22509
+    },
+    {
+      "question": "How should you send me the next update?",
+      "file": "q06.mp3",
+      "bytes": 29421
+    },
+    {
+      "question": "How should you send me the next update?",
+      "file": "q07.mp3",
+      "bytes": 25005
+    },
+    {
+      "question": "How should you send me the next update?",
+      "file": "q08.mp3",
+      "bytes": 31341
+    },
+    {
+      "question": "How should you send me the next update?",
+      "file": "q09.mp3",
+      "bytes": 26541
+    },
+    {
+      "question": "How should you send me the next update?",
+      "file": "q10.mp3",
+      "bytes": 23661
+    }
+  ]
+}
