@@ -7,56 +7,3432 @@
       "turn_count": 60,
       "file": "S1.mp3",
       "duration_sec_approx": 383.8,
-      "bytes": 3071277
+      "bytes": 3071277,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/000.mp3",
+          "duration_sec": 7.4,
+          "bytes": 59949
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/001.mp3",
+          "duration_sec": 8.08,
+          "bytes": 65325
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/002.mp3",
+          "duration_sec": 6.72,
+          "bytes": 54381
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/003.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/004.mp3",
+          "duration_sec": 7.88,
+          "bytes": 63789
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/005.mp3",
+          "duration_sec": 8.2,
+          "bytes": 66285
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/006.mp3",
+          "duration_sec": 3.84,
+          "bytes": 31341
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/007.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/008.mp3",
+          "duration_sec": 9.28,
+          "bytes": 74925
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/009.mp3",
+          "duration_sec": 5.08,
+          "bytes": 41325
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/010.mp3",
+          "duration_sec": 6.6,
+          "bytes": 53421
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/011.mp3",
+          "duration_sec": 6.16,
+          "bytes": 49965
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/012.mp3",
+          "duration_sec": 8.0,
+          "bytes": 64749
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/013.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/014.mp3",
+          "duration_sec": 7.2,
+          "bytes": 58221
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/015.mp3",
+          "duration_sec": 7.0,
+          "bytes": 56685
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/016.mp3",
+          "duration_sec": 6.4,
+          "bytes": 51885
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/017.mp3",
+          "duration_sec": 3.2,
+          "bytes": 26349
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/018.mp3",
+          "duration_sec": 6.52,
+          "bytes": 52845
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/019.mp3",
+          "duration_sec": 4.56,
+          "bytes": 37101
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/020.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/021.mp3",
+          "duration_sec": 5.08,
+          "bytes": 41325
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/022.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/023.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/024.mp3",
+          "duration_sec": 8.52,
+          "bytes": 68781
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/025.mp3",
+          "duration_sec": 8.2,
+          "bytes": 66285
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/026.mp3",
+          "duration_sec": 3.24,
+          "bytes": 26541
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/027.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/028.mp3",
+          "duration_sec": 4.4,
+          "bytes": 35949
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/029.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/030.mp3",
+          "duration_sec": 6.56,
+          "bytes": 53229
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/031.mp3",
+          "duration_sec": 5.04,
+          "bytes": 40941
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/032.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/033.mp3",
+          "duration_sec": 5.6,
+          "bytes": 45549
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/034.mp3",
+          "duration_sec": 6.92,
+          "bytes": 56109
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/035.mp3",
+          "duration_sec": 7.48,
+          "bytes": 60525
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/036.mp3",
+          "duration_sec": 6.2,
+          "bytes": 50349
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/037.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/038.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/039.mp3",
+          "duration_sec": 5.6,
+          "bytes": 45549
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/040.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/041.mp3",
+          "duration_sec": 4.24,
+          "bytes": 34605
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/042.mp3",
+          "duration_sec": 6.76,
+          "bytes": 54765
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/043.mp3",
+          "duration_sec": 6.36,
+          "bytes": 51501
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/044.mp3",
+          "duration_sec": 5.36,
+          "bytes": 43629
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/045.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/046.mp3",
+          "duration_sec": 5.76,
+          "bytes": 46701
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/047.mp3",
+          "duration_sec": 5.6,
+          "bytes": 45549
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/048.mp3",
+          "duration_sec": 5.48,
+          "bytes": 44589
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/049.mp3",
+          "duration_sec": 6.88,
+          "bytes": 55725
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/050.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S1/051.mp3",
+          "duration_sec": 6.28,
+          "bytes": 50925
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/052.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/053.mp3",
+          "duration_sec": 8.0,
+          "bytes": 64749
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/054.mp3",
+          "duration_sec": 4.6,
+          "bytes": 37485
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/055.mp3",
+          "duration_sec": 4.64,
+          "bytes": 37869
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S1/056.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S1/057.mp3",
+          "duration_sec": 3.68,
+          "bytes": 30189
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S1/058.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S1/059.mp3",
+          "duration_sec": 5.04,
+          "bytes": 40941
+        }
+      ]
     },
     {
       "session_id": "S2",
       "turn_count": 60,
       "file": "S2.mp3",
       "duration_sec_approx": 346.3,
-      "bytes": 2770989
+      "bytes": 2770989,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/000.mp3",
+          "duration_sec": 6.2,
+          "bytes": 50349
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/001.mp3",
+          "duration_sec": 4.32,
+          "bytes": 35181
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/002.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/003.mp3",
+          "duration_sec": 4.08,
+          "bytes": 33261
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/004.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/005.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/006.mp3",
+          "duration_sec": 4.2,
+          "bytes": 34221
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/007.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/008.mp3",
+          "duration_sec": 6.64,
+          "bytes": 53805
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/009.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/010.mp3",
+          "duration_sec": 6.72,
+          "bytes": 54381
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/011.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/012.mp3",
+          "duration_sec": 6.64,
+          "bytes": 53805
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/013.mp3",
+          "duration_sec": 5.0,
+          "bytes": 40749
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/014.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/015.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/016.mp3",
+          "duration_sec": 7.36,
+          "bytes": 59565
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/017.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/018.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/019.mp3",
+          "duration_sec": 4.88,
+          "bytes": 39789
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/020.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/021.mp3",
+          "duration_sec": 5.16,
+          "bytes": 41901
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/022.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/023.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/024.mp3",
+          "duration_sec": 3.44,
+          "bytes": 28269
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/025.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/026.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/027.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/028.mp3",
+          "duration_sec": 4.72,
+          "bytes": 38445
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/029.mp3",
+          "duration_sec": 4.88,
+          "bytes": 39789
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/030.mp3",
+          "duration_sec": 7.8,
+          "bytes": 63021
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/031.mp3",
+          "duration_sec": 6.76,
+          "bytes": 54765
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/032.mp3",
+          "duration_sec": 6.64,
+          "bytes": 53805
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/033.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/034.mp3",
+          "duration_sec": 4.56,
+          "bytes": 37101
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/035.mp3",
+          "duration_sec": 4.24,
+          "bytes": 34605
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/036.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/037.mp3",
+          "duration_sec": 4.76,
+          "bytes": 38829
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/038.mp3",
+          "duration_sec": 7.24,
+          "bytes": 58605
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/039.mp3",
+          "duration_sec": 5.88,
+          "bytes": 47661
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/040.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/041.mp3",
+          "duration_sec": 4.24,
+          "bytes": 34605
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/042.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/043.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/044.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/045.mp3",
+          "duration_sec": 3.8,
+          "bytes": 31149
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/046.mp3",
+          "duration_sec": 5.16,
+          "bytes": 41901
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/047.mp3",
+          "duration_sec": 4.2,
+          "bytes": 34221
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/048.mp3",
+          "duration_sec": 3.96,
+          "bytes": 32301
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/049.mp3",
+          "duration_sec": 5.88,
+          "bytes": 47661
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/050.mp3",
+          "duration_sec": 5.8,
+          "bytes": 47085
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/051.mp3",
+          "duration_sec": 3.84,
+          "bytes": 31341
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/052.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/053.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S2/054.mp3",
+          "duration_sec": 4.0,
+          "bytes": 32685
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S2/055.mp3",
+          "duration_sec": 4.8,
+          "bytes": 39021
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/056.mp3",
+          "duration_sec": 4.24,
+          "bytes": 34605
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S2/057.mp3",
+          "duration_sec": 6.68,
+          "bytes": 54189
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S2/058.mp3",
+          "duration_sec": 4.44,
+          "bytes": 36141
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S2/059.mp3",
+          "duration_sec": 6.6,
+          "bytes": 53421
+        }
+      ]
     },
     {
       "session_id": "S3",
       "turn_count": 60,
       "file": "S3.mp3",
       "duration_sec_approx": 343.6,
-      "bytes": 2749869
+      "bytes": 2749869,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/000.mp3",
+          "duration_sec": 6.6,
+          "bytes": 53421
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/001.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/002.mp3",
+          "duration_sec": 4.16,
+          "bytes": 34029
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/003.mp3",
+          "duration_sec": 4.2,
+          "bytes": 34221
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/004.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/005.mp3",
+          "duration_sec": 6.16,
+          "bytes": 49965
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/006.mp3",
+          "duration_sec": 5.88,
+          "bytes": 47661
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/007.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/008.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/009.mp3",
+          "duration_sec": 6.4,
+          "bytes": 51885
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/010.mp3",
+          "duration_sec": 8.16,
+          "bytes": 65901
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/011.mp3",
+          "duration_sec": 4.76,
+          "bytes": 38829
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/012.mp3",
+          "duration_sec": 5.8,
+          "bytes": 47085
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/013.mp3",
+          "duration_sec": 4.4,
+          "bytes": 35949
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/014.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/015.mp3",
+          "duration_sec": 3.56,
+          "bytes": 29229
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/016.mp3",
+          "duration_sec": 9.16,
+          "bytes": 73965
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/017.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/018.mp3",
+          "duration_sec": 6.44,
+          "bytes": 52269
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/019.mp3",
+          "duration_sec": 4.88,
+          "bytes": 39789
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/020.mp3",
+          "duration_sec": 4.68,
+          "bytes": 38061
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/021.mp3",
+          "duration_sec": 4.28,
+          "bytes": 34989
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/022.mp3",
+          "duration_sec": 4.64,
+          "bytes": 37869
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/023.mp3",
+          "duration_sec": 7.04,
+          "bytes": 57069
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/024.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/025.mp3",
+          "duration_sec": 4.48,
+          "bytes": 36525
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/026.mp3",
+          "duration_sec": 3.24,
+          "bytes": 26541
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/027.mp3",
+          "duration_sec": 5.16,
+          "bytes": 41901
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/028.mp3",
+          "duration_sec": 6.48,
+          "bytes": 52461
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/029.mp3",
+          "duration_sec": 4.76,
+          "bytes": 38829
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/030.mp3",
+          "duration_sec": 3.84,
+          "bytes": 31341
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/031.mp3",
+          "duration_sec": 5.68,
+          "bytes": 46125
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/032.mp3",
+          "duration_sec": 4.52,
+          "bytes": 36909
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/033.mp3",
+          "duration_sec": 5.96,
+          "bytes": 48429
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/034.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/035.mp3",
+          "duration_sec": 5.8,
+          "bytes": 47085
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/036.mp3",
+          "duration_sec": 4.16,
+          "bytes": 34029
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/037.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/038.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/039.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/040.mp3",
+          "duration_sec": 3.52,
+          "bytes": 28845
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/041.mp3",
+          "duration_sec": 6.28,
+          "bytes": 50925
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/042.mp3",
+          "duration_sec": 5.6,
+          "bytes": 45549
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/043.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/044.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/045.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/046.mp3",
+          "duration_sec": 4.72,
+          "bytes": 38445
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/047.mp3",
+          "duration_sec": 7.04,
+          "bytes": 57069
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/048.mp3",
+          "duration_sec": 6.76,
+          "bytes": 54765
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/049.mp3",
+          "duration_sec": 6.2,
+          "bytes": 50349
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/050.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/051.mp3",
+          "duration_sec": 4.6,
+          "bytes": 37485
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/052.mp3",
+          "duration_sec": 2.04,
+          "bytes": 16941
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/053.mp3",
+          "duration_sec": 7.76,
+          "bytes": 62829
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/054.mp3",
+          "duration_sec": 4.64,
+          "bytes": 37869
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S3/055.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S3/056.mp3",
+          "duration_sec": 4.0,
+          "bytes": 32685
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S3/057.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S3/058.mp3",
+          "duration_sec": 4.28,
+          "bytes": 34989
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S3/059.mp3",
+          "duration_sec": 3.72,
+          "bytes": 30381
+        }
+      ]
     },
     {
       "session_id": "S4",
       "turn_count": 60,
       "file": "S4.mp3",
       "duration_sec_approx": 462.1,
-      "bytes": 3697197
+      "bytes": 3697197,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/000.mp3",
+          "duration_sec": 10.36,
+          "bytes": 83565
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/001.mp3",
+          "duration_sec": 10.72,
+          "bytes": 86445
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/002.mp3",
+          "duration_sec": 9.56,
+          "bytes": 77229
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/003.mp3",
+          "duration_sec": 9.4,
+          "bytes": 75885
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/004.mp3",
+          "duration_sec": 10.56,
+          "bytes": 85101
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/005.mp3",
+          "duration_sec": 8.6,
+          "bytes": 69549
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/006.mp3",
+          "duration_sec": 2.72,
+          "bytes": 22509
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/007.mp3",
+          "duration_sec": 7.76,
+          "bytes": 62829
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/008.mp3",
+          "duration_sec": 6.64,
+          "bytes": 53805
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/009.mp3",
+          "duration_sec": 9.36,
+          "bytes": 75501
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/010.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/011.mp3",
+          "duration_sec": 8.16,
+          "bytes": 65901
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/012.mp3",
+          "duration_sec": 6.92,
+          "bytes": 56109
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/013.mp3",
+          "duration_sec": 4.68,
+          "bytes": 38061
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/014.mp3",
+          "duration_sec": 8.08,
+          "bytes": 65325
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/015.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/016.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/017.mp3",
+          "duration_sec": 9.44,
+          "bytes": 76269
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/018.mp3",
+          "duration_sec": 8.2,
+          "bytes": 66285
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/019.mp3",
+          "duration_sec": 6.72,
+          "bytes": 54381
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/020.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/021.mp3",
+          "duration_sec": 7.88,
+          "bytes": 63789
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/022.mp3",
+          "duration_sec": 8.08,
+          "bytes": 65325
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/023.mp3",
+          "duration_sec": 6.68,
+          "bytes": 54189
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/024.mp3",
+          "duration_sec": 7.24,
+          "bytes": 58605
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/025.mp3",
+          "duration_sec": 8.08,
+          "bytes": 65325
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/026.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/027.mp3",
+          "duration_sec": 8.28,
+          "bytes": 66861
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/028.mp3",
+          "duration_sec": 8.52,
+          "bytes": 68781
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/029.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/030.mp3",
+          "duration_sec": 7.44,
+          "bytes": 60141
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/031.mp3",
+          "duration_sec": 8.88,
+          "bytes": 71661
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/032.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/033.mp3",
+          "duration_sec": 7.76,
+          "bytes": 62829
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/034.mp3",
+          "duration_sec": 8.4,
+          "bytes": 67821
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/035.mp3",
+          "duration_sec": 4.76,
+          "bytes": 38829
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/036.mp3",
+          "duration_sec": 7.4,
+          "bytes": 59949
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/037.mp3",
+          "duration_sec": 9.44,
+          "bytes": 76269
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/038.mp3",
+          "duration_sec": 5.36,
+          "bytes": 43629
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/039.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/040.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/041.mp3",
+          "duration_sec": 7.44,
+          "bytes": 60141
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/042.mp3",
+          "duration_sec": 6.68,
+          "bytes": 54189
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/043.mp3",
+          "duration_sec": 6.48,
+          "bytes": 52461
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/044.mp3",
+          "duration_sec": 7.6,
+          "bytes": 61485
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/045.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/046.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/047.mp3",
+          "duration_sec": 7.84,
+          "bytes": 63405
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/048.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/049.mp3",
+          "duration_sec": 7.56,
+          "bytes": 61101
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/050.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/051.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/052.mp3",
+          "duration_sec": 7.12,
+          "bytes": 57645
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/053.mp3",
+          "duration_sec": 8.0,
+          "bytes": 64749
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/054.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S4/055.mp3",
+          "duration_sec": 6.52,
+          "bytes": 52845
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S4/056.mp3",
+          "duration_sec": 6.92,
+          "bytes": 56109
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S4/057.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S4/058.mp3",
+          "duration_sec": 7.72,
+          "bytes": 62445
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S4/059.mp3",
+          "duration_sec": 7.48,
+          "bytes": 60525
+        }
+      ]
     },
     {
       "session_id": "S5",
       "turn_count": 60,
       "file": "S5.mp3",
       "duration_sec_approx": 387.7,
-      "bytes": 3102189
+      "bytes": 3102189,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/000.mp3",
+          "duration_sec": 7.84,
+          "bytes": 63405
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/001.mp3",
+          "duration_sec": 8.52,
+          "bytes": 68781
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/002.mp3",
+          "duration_sec": 8.28,
+          "bytes": 66861
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/003.mp3",
+          "duration_sec": 7.72,
+          "bytes": 62445
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/004.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/005.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/006.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/007.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/008.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/009.mp3",
+          "duration_sec": 4.44,
+          "bytes": 36141
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/010.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/011.mp3",
+          "duration_sec": 6.32,
+          "bytes": 51309
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/012.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/013.mp3",
+          "duration_sec": 7.0,
+          "bytes": 56685
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/014.mp3",
+          "duration_sec": 5.8,
+          "bytes": 47085
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/015.mp3",
+          "duration_sec": 6.36,
+          "bytes": 51501
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/016.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/017.mp3",
+          "duration_sec": 6.44,
+          "bytes": 52269
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/018.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/019.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/020.mp3",
+          "duration_sec": 7.16,
+          "bytes": 58029
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/021.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/022.mp3",
+          "duration_sec": 5.64,
+          "bytes": 45741
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/023.mp3",
+          "duration_sec": 4.68,
+          "bytes": 38061
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/024.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/025.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/026.mp3",
+          "duration_sec": 4.88,
+          "bytes": 39789
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/027.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/028.mp3",
+          "duration_sec": 7.16,
+          "bytes": 58029
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/029.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/030.mp3",
+          "duration_sec": 3.68,
+          "bytes": 30189
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/031.mp3",
+          "duration_sec": 6.32,
+          "bytes": 51309
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/032.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/033.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/034.mp3",
+          "duration_sec": 6.56,
+          "bytes": 53229
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/035.mp3",
+          "duration_sec": 7.6,
+          "bytes": 61485
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/036.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/037.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/038.mp3",
+          "duration_sec": 7.44,
+          "bytes": 60141
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/039.mp3",
+          "duration_sec": 5.88,
+          "bytes": 47661
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/040.mp3",
+          "duration_sec": 6.92,
+          "bytes": 56109
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/041.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/042.mp3",
+          "duration_sec": 7.72,
+          "bytes": 62445
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/043.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/044.mp3",
+          "duration_sec": 6.4,
+          "bytes": 51885
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/045.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/046.mp3",
+          "duration_sec": 5.84,
+          "bytes": 47469
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/047.mp3",
+          "duration_sec": 5.08,
+          "bytes": 41325
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/048.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/049.mp3",
+          "duration_sec": 8.4,
+          "bytes": 67821
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/050.mp3",
+          "duration_sec": 4.08,
+          "bytes": 33261
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/051.mp3",
+          "duration_sec": 5.0,
+          "bytes": 40749
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/052.mp3",
+          "duration_sec": 5.04,
+          "bytes": 40941
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/053.mp3",
+          "duration_sec": 7.72,
+          "bytes": 62445
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/054.mp3",
+          "duration_sec": 4.8,
+          "bytes": 39021
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S5/055.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S5/056.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S5/057.mp3",
+          "duration_sec": 3.84,
+          "bytes": 31341
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S5/058.mp3",
+          "duration_sec": 4.72,
+          "bytes": 38445
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S5/059.mp3",
+          "duration_sec": 8.0,
+          "bytes": 64749
+        }
+      ]
     },
     {
       "session_id": "S6",
       "turn_count": 60,
       "file": "S6.mp3",
       "duration_sec_approx": 380.4,
-      "bytes": 3044013
+      "bytes": 3044013,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/000.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/001.mp3",
+          "duration_sec": 6.48,
+          "bytes": 52461
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/002.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/003.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/004.mp3",
+          "duration_sec": 7.96,
+          "bytes": 64365
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/005.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/006.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/007.mp3",
+          "duration_sec": 6.76,
+          "bytes": 54765
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/008.mp3",
+          "duration_sec": 6.4,
+          "bytes": 51885
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/009.mp3",
+          "duration_sec": 6.44,
+          "bytes": 52269
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/010.mp3",
+          "duration_sec": 7.76,
+          "bytes": 62829
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/011.mp3",
+          "duration_sec": 6.4,
+          "bytes": 51885
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/012.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/013.mp3",
+          "duration_sec": 7.36,
+          "bytes": 59565
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/014.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/015.mp3",
+          "duration_sec": 5.8,
+          "bytes": 47085
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/016.mp3",
+          "duration_sec": 3.44,
+          "bytes": 28269
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/017.mp3",
+          "duration_sec": 6.88,
+          "bytes": 55725
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/018.mp3",
+          "duration_sec": 5.0,
+          "bytes": 40749
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/019.mp3",
+          "duration_sec": 4.08,
+          "bytes": 33261
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/020.mp3",
+          "duration_sec": 6.84,
+          "bytes": 55341
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/021.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/022.mp3",
+          "duration_sec": 3.96,
+          "bytes": 32301
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/023.mp3",
+          "duration_sec": 7.56,
+          "bytes": 61101
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/024.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/025.mp3",
+          "duration_sec": 6.72,
+          "bytes": 54381
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/026.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/027.mp3",
+          "duration_sec": 6.52,
+          "bytes": 52845
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/028.mp3",
+          "duration_sec": 4.2,
+          "bytes": 34221
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/029.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/030.mp3",
+          "duration_sec": 6.52,
+          "bytes": 52845
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/031.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/032.mp3",
+          "duration_sec": 7.48,
+          "bytes": 60525
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/033.mp3",
+          "duration_sec": 7.96,
+          "bytes": 64365
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/034.mp3",
+          "duration_sec": 6.48,
+          "bytes": 52461
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/035.mp3",
+          "duration_sec": 5.6,
+          "bytes": 45549
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/036.mp3",
+          "duration_sec": 7.16,
+          "bytes": 58029
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/037.mp3",
+          "duration_sec": 5.0,
+          "bytes": 40749
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/038.mp3",
+          "duration_sec": 7.44,
+          "bytes": 60141
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/039.mp3",
+          "duration_sec": 8.04,
+          "bytes": 64941
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/040.mp3",
+          "duration_sec": 8.32,
+          "bytes": 67245
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/041.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/042.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/043.mp3",
+          "duration_sec": 5.08,
+          "bytes": 41325
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/044.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/045.mp3",
+          "duration_sec": 2.6,
+          "bytes": 21549
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/046.mp3",
+          "duration_sec": 5.36,
+          "bytes": 43629
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/047.mp3",
+          "duration_sec": 6.92,
+          "bytes": 56109
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/048.mp3",
+          "duration_sec": 3.04,
+          "bytes": 25005
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/049.mp3",
+          "duration_sec": 8.08,
+          "bytes": 65325
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/050.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/051.mp3",
+          "duration_sec": 6.36,
+          "bytes": 51501
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/052.mp3",
+          "duration_sec": 6.36,
+          "bytes": 51501
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/053.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/054.mp3",
+          "duration_sec": 3.72,
+          "bytes": 30381
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S6/055.mp3",
+          "duration_sec": 5.88,
+          "bytes": 47661
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S6/056.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S6/057.mp3",
+          "duration_sec": 5.36,
+          "bytes": 43629
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S6/058.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S6/059.mp3",
+          "duration_sec": 5.08,
+          "bytes": 41325
+        }
+      ]
     },
     {
       "session_id": "S7",
       "turn_count": 60,
       "file": "S7.mp3",
       "duration_sec_approx": 371.6,
-      "bytes": 2973933
+      "bytes": 2973933,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/000.mp3",
+          "duration_sec": 7.68,
+          "bytes": 62061
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/001.mp3",
+          "duration_sec": 5.76,
+          "bytes": 46701
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/002.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/003.mp3",
+          "duration_sec": 8.8,
+          "bytes": 71085
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/004.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/005.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/006.mp3",
+          "duration_sec": 3.6,
+          "bytes": 29421
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/007.mp3",
+          "duration_sec": 6.08,
+          "bytes": 49389
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/008.mp3",
+          "duration_sec": 5.36,
+          "bytes": 43629
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/009.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/010.mp3",
+          "duration_sec": 7.28,
+          "bytes": 58989
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/011.mp3",
+          "duration_sec": 4.56,
+          "bytes": 37101
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/012.mp3",
+          "duration_sec": 3.64,
+          "bytes": 29805
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/013.mp3",
+          "duration_sec": 7.4,
+          "bytes": 59949
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/014.mp3",
+          "duration_sec": 6.96,
+          "bytes": 56301
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/015.mp3",
+          "duration_sec": 2.96,
+          "bytes": 24429
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/016.mp3",
+          "duration_sec": 4.48,
+          "bytes": 36525
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/017.mp3",
+          "duration_sec": 2.32,
+          "bytes": 19245
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/018.mp3",
+          "duration_sec": 8.12,
+          "bytes": 65709
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/019.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/020.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/021.mp3",
+          "duration_sec": 4.08,
+          "bytes": 33261
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/022.mp3",
+          "duration_sec": 7.48,
+          "bytes": 60525
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/023.mp3",
+          "duration_sec": 8.52,
+          "bytes": 68781
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/024.mp3",
+          "duration_sec": 6.56,
+          "bytes": 53229
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/025.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/026.mp3",
+          "duration_sec": 4.36,
+          "bytes": 35565
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/027.mp3",
+          "duration_sec": 4.76,
+          "bytes": 38829
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/028.mp3",
+          "duration_sec": 6.72,
+          "bytes": 54381
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/029.mp3",
+          "duration_sec": 4.8,
+          "bytes": 39021
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/030.mp3",
+          "duration_sec": 6.28,
+          "bytes": 50925
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/031.mp3",
+          "duration_sec": 7.04,
+          "bytes": 57069
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/032.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/033.mp3",
+          "duration_sec": 4.16,
+          "bytes": 34029
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/034.mp3",
+          "duration_sec": 6.88,
+          "bytes": 55725
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/035.mp3",
+          "duration_sec": 9.12,
+          "bytes": 73581
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/036.mp3",
+          "duration_sec": 7.08,
+          "bytes": 57261
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/037.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/038.mp3",
+          "duration_sec": 8.36,
+          "bytes": 67629
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/039.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/040.mp3",
+          "duration_sec": 7.56,
+          "bytes": 61101
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/041.mp3",
+          "duration_sec": 4.72,
+          "bytes": 38445
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/042.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/043.mp3",
+          "duration_sec": 6.36,
+          "bytes": 51501
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/044.mp3",
+          "duration_sec": 6.48,
+          "bytes": 52461
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/045.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/046.mp3",
+          "duration_sec": 6.2,
+          "bytes": 50349
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/047.mp3",
+          "duration_sec": 4.16,
+          "bytes": 34029
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/048.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/049.mp3",
+          "duration_sec": 6.28,
+          "bytes": 50925
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/050.mp3",
+          "duration_sec": 4.92,
+          "bytes": 39981
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/051.mp3",
+          "duration_sec": 4.16,
+          "bytes": 34029
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/052.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/053.mp3",
+          "duration_sec": 5.64,
+          "bytes": 45741
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/054.mp3",
+          "duration_sec": 5.12,
+          "bytes": 41709
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S7/055.mp3",
+          "duration_sec": 3.76,
+          "bytes": 30765
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S7/056.mp3",
+          "duration_sec": 6.12,
+          "bytes": 49581
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S7/057.mp3",
+          "duration_sec": 5.2,
+          "bytes": 42285
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S7/058.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S7/059.mp3",
+          "duration_sec": 4.56,
+          "bytes": 37101
+        }
+      ]
     },
     {
       "session_id": "S8",
       "turn_count": 60,
       "file": "S8.mp3",
       "duration_sec_approx": 404.6,
-      "bytes": 3237357
+      "bytes": 3237357,
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/000.mp3",
+          "duration_sec": 8.44,
+          "bytes": 68205
+        },
+        {
+          "turn_idx": 1,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/001.mp3",
+          "duration_sec": 9.2,
+          "bytes": 74349
+        },
+        {
+          "turn_idx": 2,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/002.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 3,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/003.mp3",
+          "duration_sec": 8.2,
+          "bytes": 66285
+        },
+        {
+          "turn_idx": 4,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/004.mp3",
+          "duration_sec": 8.44,
+          "bytes": 68205
+        },
+        {
+          "turn_idx": 5,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/005.mp3",
+          "duration_sec": 5.64,
+          "bytes": 45741
+        },
+        {
+          "turn_idx": 6,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/006.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 7,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/007.mp3",
+          "duration_sec": 5.68,
+          "bytes": 46125
+        },
+        {
+          "turn_idx": 8,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/008.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 9,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/009.mp3",
+          "duration_sec": 7.64,
+          "bytes": 61869
+        },
+        {
+          "turn_idx": 10,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/010.mp3",
+          "duration_sec": 10.96,
+          "bytes": 88365
+        },
+        {
+          "turn_idx": 11,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/011.mp3",
+          "duration_sec": 7.44,
+          "bytes": 60141
+        },
+        {
+          "turn_idx": 12,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/012.mp3",
+          "duration_sec": 5.28,
+          "bytes": 42861
+        },
+        {
+          "turn_idx": 13,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/013.mp3",
+          "duration_sec": 6.8,
+          "bytes": 55149
+        },
+        {
+          "turn_idx": 14,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/014.mp3",
+          "duration_sec": 8.04,
+          "bytes": 64941
+        },
+        {
+          "turn_idx": 15,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/015.mp3",
+          "duration_sec": 5.72,
+          "bytes": 46509
+        },
+        {
+          "turn_idx": 16,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/016.mp3",
+          "duration_sec": 7.12,
+          "bytes": 57645
+        },
+        {
+          "turn_idx": 17,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/017.mp3",
+          "duration_sec": 9.68,
+          "bytes": 78189
+        },
+        {
+          "turn_idx": 18,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/018.mp3",
+          "duration_sec": 6.0,
+          "bytes": 48621
+        },
+        {
+          "turn_idx": 19,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/019.mp3",
+          "duration_sec": 6.28,
+          "bytes": 50925
+        },
+        {
+          "turn_idx": 20,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/020.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 21,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/021.mp3",
+          "duration_sec": 6.24,
+          "bytes": 50541
+        },
+        {
+          "turn_idx": 22,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/022.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 23,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/023.mp3",
+          "duration_sec": 6.2,
+          "bytes": 50349
+        },
+        {
+          "turn_idx": 24,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/024.mp3",
+          "duration_sec": 5.92,
+          "bytes": 48045
+        },
+        {
+          "turn_idx": 25,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/025.mp3",
+          "duration_sec": 4.64,
+          "bytes": 37869
+        },
+        {
+          "turn_idx": 26,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/026.mp3",
+          "duration_sec": 4.96,
+          "bytes": 40365
+        },
+        {
+          "turn_idx": 27,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/027.mp3",
+          "duration_sec": 7.16,
+          "bytes": 58029
+        },
+        {
+          "turn_idx": 28,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/028.mp3",
+          "duration_sec": 5.44,
+          "bytes": 44205
+        },
+        {
+          "turn_idx": 29,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/029.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 30,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/030.mp3",
+          "duration_sec": 6.76,
+          "bytes": 54765
+        },
+        {
+          "turn_idx": 31,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/031.mp3",
+          "duration_sec": 5.48,
+          "bytes": 44589
+        },
+        {
+          "turn_idx": 32,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/032.mp3",
+          "duration_sec": 5.32,
+          "bytes": 43245
+        },
+        {
+          "turn_idx": 33,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/033.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 34,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/034.mp3",
+          "duration_sec": 6.16,
+          "bytes": 49965
+        },
+        {
+          "turn_idx": 35,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/035.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 36,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/036.mp3",
+          "duration_sec": 7.2,
+          "bytes": 58221
+        },
+        {
+          "turn_idx": 37,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/037.mp3",
+          "duration_sec": 4.2,
+          "bytes": 34221
+        },
+        {
+          "turn_idx": 38,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/038.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 39,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/039.mp3",
+          "duration_sec": 7.32,
+          "bytes": 59181
+        },
+        {
+          "turn_idx": 40,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/040.mp3",
+          "duration_sec": 7.88,
+          "bytes": 63789
+        },
+        {
+          "turn_idx": 41,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/041.mp3",
+          "duration_sec": 6.56,
+          "bytes": 53229
+        },
+        {
+          "turn_idx": 42,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/042.mp3",
+          "duration_sec": 7.4,
+          "bytes": 59949
+        },
+        {
+          "turn_idx": 43,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/043.mp3",
+          "duration_sec": 5.52,
+          "bytes": 44781
+        },
+        {
+          "turn_idx": 44,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/044.mp3",
+          "duration_sec": 6.04,
+          "bytes": 49005
+        },
+        {
+          "turn_idx": 45,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/045.mp3",
+          "duration_sec": 4.08,
+          "bytes": 33261
+        },
+        {
+          "turn_idx": 46,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/046.mp3",
+          "duration_sec": 5.24,
+          "bytes": 42669
+        },
+        {
+          "turn_idx": 47,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/047.mp3",
+          "duration_sec": 5.76,
+          "bytes": 46701
+        },
+        {
+          "turn_idx": 48,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/048.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 49,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/049.mp3",
+          "duration_sec": 4.52,
+          "bytes": 36909
+        },
+        {
+          "turn_idx": 50,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/050.mp3",
+          "duration_sec": 5.56,
+          "bytes": 45165
+        },
+        {
+          "turn_idx": 51,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/051.mp3",
+          "duration_sec": 5.4,
+          "bytes": 43821
+        },
+        {
+          "turn_idx": 52,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/052.mp3",
+          "duration_sec": 6.64,
+          "bytes": 53805
+        },
+        {
+          "turn_idx": 53,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/053.mp3",
+          "duration_sec": 5.48,
+          "bytes": 44589
+        },
+        {
+          "turn_idx": 54,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/054.mp3",
+          "duration_sec": 7.16,
+          "bytes": 58029
+        },
+        {
+          "turn_idx": 55,
+          "speaker_name": "Evan Patel",
+          "file": "turns/S8/055.mp3",
+          "duration_sec": 4.24,
+          "bytes": 34605
+        },
+        {
+          "turn_idx": 56,
+          "speaker_name": "Leah Patel",
+          "file": "turns/S8/056.mp3",
+          "duration_sec": 7.8,
+          "bytes": 63021
+        },
+        {
+          "turn_idx": 57,
+          "speaker_name": "Tessa Kim",
+          "file": "turns/S8/057.mp3",
+          "duration_sec": 8.24,
+          "bytes": 66669
+        },
+        {
+          "turn_idx": 58,
+          "speaker_name": "Nora Patel",
+          "file": "turns/S8/058.mp3",
+          "duration_sec": 7.52,
+          "bytes": 60909
+        },
+        {
+          "turn_idx": 59,
+          "speaker_name": "Marco Ruiz",
+          "file": "turns/S8/059.mp3",
+          "duration_sec": 5.2,
+          "bytes": 42285
+        }
+      ]
     }
   ],
   "questions": [
