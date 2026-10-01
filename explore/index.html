@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse real VoxPolyBench questions and the canonical multi-session dialogue transcript.">
+  <title>QA & Dialogue — VoxPolyBench</title>
+  <link rel="stylesheet" href="../styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="header wrap"><a class="brand" href="../"><span class="brand-wave" aria-hidden="true">▂▅█▅▂</span> VoxPoly<span>Bench</span></a><nav class="page-nav" aria-label="Main navigation"><a href="../">Home</a><a href="../demo/">Demo</a><a href="../code/">Code</a><a href="../datasets/">Datasets</a></nav></header>
+  <main id="main" class="interior wrap">
+    <p class="eyebrow">FAMILY CITY BREAK / SOURCE BROWSER</p>
+    <h1 class="page-title">Questions &amp;<br><em>conversation.</em></h1>
+    <p class="page-lead">Explore the family-trip history through 75 questions, 480 dialogue turns, and eight session-level audio recordings.</p>
+    <div class="explorer-grid">
+      <section class="panel" aria-labelledby="content-title">
+        <div class="explorer-heading"><div><p class="eyebrow">CONTENT</p><h2 id="content-title">Dialogue by session</h2></div><span class="count-pill" id="turn-count">0 / 480 turns</span></div>
+        <label class="field-label" for="session-select">Session</label>
+        <select id="session-select" class="field" disabled><option>Awaiting transcript</option></select>
+        <p id="content-status" class="listen-state" role="status">Checking for canonical dialogue…</p>
+        <div id="session-audio" class="session-audio" hidden></div>
+        <div id="dialogue-list" class="dialogue-list"></div>
+      </section>
+      <section class="panel" aria-labelledby="qa-title">
+        <div class="explorer-heading"><div><p class="eyebrow">QA SAMPLES</p><h2 id="qa-title">Questions &amp; answers</h2></div><span class="count-pill" id="qa-count">Loading…</span></div>
+        <div class="qa-filters"><label><span class="field-label">Search questions</span><input class="field" id="qa-search" type="search" placeholder="Search question or answer"></label><label><span class="field-label">Question type</span><select class="field" id="qa-type"><option value="all">All types</option></select></label></div>
+        <p class="explorer-hint">Open a question to reveal its reference answer. Search and type filters apply to all 75 items.</p>
+        <div id="qa-list" class="qa-list"></div>
+      </section>
+    </div>
+  </main>
+  <footer class="footer wrap"><span>VoxPolyBench · Family city break</span><a href="../demo/">Back to audio demo ↗</a></footer>
+</body>
+</html>

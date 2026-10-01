@@ -1,0 +1,3304 @@
+{
+  "schema_version": "voxpoly-web-case.v1",
+  "case_id": "family-city-break",
+  "status": "complete",
+  "sessions": [
+    {
+      "session_id": "S1",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Hi everyone, thanks for joining. Tessa, could you help us sort out the last-minute changes for our city break?",
+          "turn_id": "S1_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Tessa Kim",
+          "text": "Of course, Nora! I’ve got your notes here. Evan, Leah, Marco—glad you could all make it.",
+          "turn_id": "S1_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Evan Patel",
+          "text": "Hey Tessa, thanks for helping us out. I’m Evan, I’ll be driving us to the station.",
+          "turn_id": "S1_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Leah Patel",
+          "text": "Hi Tessa, I’m Leah. I’m mostly excited for the museums, but I’ll try not to change my mind too much.",
+          "turn_id": "S1_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Marco Ruiz",
+          "text": "Hello, I’m Marco. I’ll be your hotel host when you arrive. Let me know if you need anything special.",
+          "turn_id": "S1_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Tessa Kim",
+          "text": "Thanks, Marco. I’ll loop you in on any requests. Nora, what’s your top priority for the room?",
+          "turn_id": "S1_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Nora Patel",
+          "text": "I’d really like a quiet room away from the elevator.",
+          "turn_id": "S1_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Tessa Kim",
+          "text": "Got it, Nora. I’ll make sure Marco knows to reserve something peaceful for you.",
+          "turn_id": "S1_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Marco Ruiz",
+          "text": "That’s doable. I’ll check which rooms are farthest from the elevator and hold one for your family.",
+          "turn_id": "S1_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Marco. I’m a light sleeper, so that’ll help a lot.",
+          "turn_id": "S1_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Nora Patel",
+          "text": "I prefer a written itinerary, Tessa. It helps me keep track of everything.",
+          "turn_id": "S1_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Tessa Kim",
+          "text": "No problem, Nora. I’ll send you a PDF and print a copy for the trip.",
+          "turn_id": "S1_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Evan Patel",
+          "text": "I actually like a quick call for updates, if that’s easier. I’m not great with emails.",
+          "turn_id": "S1_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Tessa Kim",
+          "text": "Sure, Evan. I’ll call you if anything changes last minute.",
+          "turn_id": "S1_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Leah Patel",
+          "text": "I’d rather get a text with a map pin, honestly. Makes it way easier for me to find stuff.",
+          "turn_id": "S1_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Tessa Kim",
+          "text": "Absolutely, Leah. I’ll drop pins for all the spots you’re visiting.",
+          "turn_id": "S1_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Marco Ruiz",
+          "text": "For me, just leave a front-desk message if you need to relay anything. I check them often.",
+          "turn_id": "S1_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Tessa Kim",
+          "text": "Will do, Marco. That’s easy enough.",
+          "turn_id": "S1_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Tessa Kim",
+          "text": "And for trip updates, I’ll keep a shared trip note so everyone can check details anytime.",
+          "turn_id": "S1_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Nora Patel",
+          "text": "That’s perfect, Tessa. We’ll all be on the same page.",
+          "turn_id": "S1_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Evan Patel",
+          "text": "Nice, that’ll help if we split up for anything.",
+          "turn_id": "S1_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Leah Patel",
+          "text": "Cool, I’ll check the note for any changes.",
+          "turn_id": "S1_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Marco Ruiz",
+          "text": "I’ll keep an eye on it, too, in case you need hotel info updated.",
+          "turn_id": "S1_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Tessa Kim",
+          "text": "Let’s talk accessibility. Is there anything specific you need at the hotel or around town?",
+          "turn_id": "S1_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Nora Patel",
+          "text": "Just easy access for Leah’s knee brace. No stairs if possible, and an elevator that’s reliable.",
+          "turn_id": "S1_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Marco Ruiz",
+          "text": "We’ve got a ramp and two elevators. I’ll make sure you’re on the floor closest to the ramp.",
+          "turn_id": "S1_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Evan Patel",
+          "text": "We’re booked on the 7:20 train, right?",
+          "turn_id": "S1_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Nora Patel",
+          "text": "Yes, Evan, 7:20. We’ll need to leave home by 6:40 to be safe.",
+          "turn_id": "S1_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Leah Patel",
+          "text": "Ugh, that’s early. Will there be coffee at the station?",
+          "turn_id": "S1_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Evan Patel",
+          "text": "Yeah, Leah. There’s a café right by the platform. I’ll grab us drinks.",
+          "turn_id": "S1_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Tessa Kim",
+          "text": "Any food preferences or allergies I should note for the hotel or restaurants?",
+          "turn_id": "S1_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Nora Patel",
+          "text": "I’m vegetarian, and Leah avoids peanuts. Evan’s fine with anything.",
+          "turn_id": "S1_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Marco Ruiz",
+          "text": "I’ll flag those for the kitchen. We’ve got vegetarian options and peanut-free snacks.",
+          "turn_id": "S1_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Marco. I appreciate it. I get nervous about peanuts.",
+          "turn_id": "S1_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Tessa Kim",
+          "text": "Marco, is there a fridge in the room? Leah needs to keep her allergy meds cool.",
+          "turn_id": "S1_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, there’s a mini-fridge. If you need more space, let me know and I’ll arrange it.",
+          "turn_id": "S1_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Evan Patel",
+          "text": "That’s great, Marco. We’ll just need the fridge for Leah’s meds and maybe some snacks.",
+          "turn_id": "S1_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Nora Patel",
+          "text": "Perfect, thanks. We’ll bring a small cooler just in case.",
+          "turn_id": "S1_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Tessa Kim",
+          "text": "Let’s talk luggage. Are you checking bags or just carrying on?",
+          "turn_id": "S1_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Evan Patel",
+          "text": "We’re just doing carry-ons. It’s only two nights, so we’ll pack light.",
+          "turn_id": "S1_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Leah Patel",
+          "text": "I’ll bring my backpack and a small duffel. I need room for souvenirs.",
+          "turn_id": "S1_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Nora Patel",
+          "text": "I’ll have a tote and my purse. Nothing bulky.",
+          "turn_id": "S1_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Tessa Kim",
+          "text": "Marco, is there a secure place to store luggage if they arrive before check-in?",
+          "turn_id": "S1_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, we have a locked room behind the desk. I’ll tag your bags when you arrive.",
+          "turn_id": "S1_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Nora Patel",
+          "text": "That’s reassuring. We might get there before noon, so that’ll help.",
+          "turn_id": "S1_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Leah Patel",
+          "text": "The science museum is the one attraction I really want to see.",
+          "turn_id": "S1_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Tessa Kim",
+          "text": "Great choice, Leah. I’ll book tickets and add it to your itinerary.",
+          "turn_id": "S1_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Nora Patel",
+          "text": "Can you check if there’s a guided tour? Leah loves hearing the backstories.",
+          "turn_id": "S1_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Tessa Kim",
+          "text": "I’ll look into it and let you know. They usually have tours on weekends.",
+          "turn_id": "S1_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Evan Patel",
+          "text": "If there’s a tour, I’m in. Otherwise, I’ll wander around and meet you after.",
+          "turn_id": "S1_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Leah Patel",
+          "text": "Dad, you’ll like the robotics exhibit. It’s got interactive stuff.",
+          "turn_id": "S1_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Marco Ruiz",
+          "text": "Leah, if you need tickets printed, I can do that at the hotel for you.",
+          "turn_id": "S1_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Marco! That’ll make it easier for me.",
+          "turn_id": "S1_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Tessa Kim",
+          "text": "One last thing—there’s been a schedule change at the art gallery. Do you want to swap it for something else?",
+          "turn_id": "S1_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Nora Patel",
+          "text": "Let’s drop the gallery for now. Maybe add a walking tour instead?",
+          "turn_id": "S1_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Tessa Kim",
+          "text": "Sure, I’ll find a walking tour that fits your schedule.",
+          "turn_id": "S1_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Evan Patel",
+          "text": "As long as it’s not too long, I’m good. My feet aren’t as young as Leah’s.",
+          "turn_id": "S1_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Leah Patel",
+          "text": "We can always bail if it’s boring, Dad. No pressure.",
+          "turn_id": "S1_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Tessa Kim",
+          "text": "Alright, I’ll update the itinerary and send everyone their preferred updates tonight.",
+          "turn_id": "S1_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Tessa and Marco. This is coming together nicely!",
+          "turn_id": "S1_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S2",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Hi Marco, we're just pulling up outside. Is there a luggage cart available?",
+          "turn_id": "S2_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Nora. I'll bring a cart out to you in a minute.",
+          "turn_id": "S2_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Evan Patel",
+          "text": "Leah, can you grab your backpack and the snack bag? I'll get the suitcases.",
+          "turn_id": "S2_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Leah Patel",
+          "text": "Sure, Dad. I got both. Where should I put them?",
+          "turn_id": "S2_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Tessa Kim",
+          "text": "Nora, just checking—did you want to add the art museum stop after lunch, or skip it?",
+          "turn_id": "S2_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "Let’s skip it for now, Tessa. Leah’s more excited about the science center.",
+          "turn_id": "S2_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Marco Ruiz",
+          "text": "Your confirmed room number is room 412.",
+          "turn_id": "S2_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco. Is that close to the elevator? We need easy access for Leah.",
+          "turn_id": "S2_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, it’s just two doors down from the elevator. Should be very convenient.",
+          "turn_id": "S2_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Leah Patel",
+          "text": "That’s awesome, thanks! I really hate long hallways.",
+          "turn_id": "S2_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Evan Patel",
+          "text": "Marco, is there a spot to unload right by the entrance? I don’t want to block anyone.",
+          "turn_id": "S2_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Marco Ruiz",
+          "text": "There’s a loading zone right out front. You’ll have plenty of room.",
+          "turn_id": "S2_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Tessa Kim",
+          "text": "Leah, do you want to see the aquarium tomorrow, or stick with the science center?",
+          "turn_id": "S2_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Leah Patel",
+          "text": "Science center, definitely. I want to try the VR exhibit.",
+          "turn_id": "S2_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, if you need help with the bags, just let me know.",
+          "turn_id": "S2_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco. I think we’re good, but I’ll holler if we need a hand.",
+          "turn_id": "S2_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Nora Patel",
+          "text": "Tessa, do you have the updated itinerary? I want to double-check our dinner reservation.",
+          "turn_id": "S2_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Tessa Kim",
+          "text": "Yep, I’ll send it to your phone. Dinner’s at 6:30 at La Tavola.",
+          "turn_id": "S2_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Leah Patel",
+          "text": "Mom, can we check out the pool before dinner? It looks cool online.",
+          "turn_id": "S2_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Nora Patel",
+          "text": "Sure, Leah. Let’s drop our bags first, then we can head down.",
+          "turn_id": "S2_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Marco Ruiz",
+          "text": "The pool’s open until 10 tonight, so you’ll have plenty of time.",
+          "turn_id": "S2_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Leah Patel",
+          "text": "Perfect! Is it heated, though? I don’t want to freeze.",
+          "turn_id": "S2_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, it’s heated. You’ll be comfortable, even if it’s chilly outside.",
+          "turn_id": "S2_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Evan Patel",
+          "text": "Nora, did you pack Leah’s swim goggles? She always forgets them.",
+          "turn_id": "S2_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Nora Patel",
+          "text": "Yep, they’re in the front pocket of her backpack.",
+          "turn_id": "S2_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Tessa Kim",
+          "text": "Marco, does the hotel offer allergy-friendly breakfast options?",
+          "turn_id": "S2_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Nora Patel",
+          "text": "We need a peanut-free breakfast for the family. Is that possible?",
+          "turn_id": "S2_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Nora. Our kitchen is peanut-free, and we have plenty of safe options.",
+          "turn_id": "S2_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Leah Patel",
+          "text": "Thanks! I’m always nervous about breakfast places.",
+          "turn_id": "S2_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Marco Ruiz",
+          "text": "No worries, Leah. We take allergies seriously here.",
+          "turn_id": "S2_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Evan Patel",
+          "text": "Tessa, is the science center wheelchair accessible? Leah’s chair tires out after long walks.",
+          "turn_id": "S2_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Tessa Kim",
+          "text": "Yes, it’s fully accessible. They even have ramps and elevators everywhere.",
+          "turn_id": "S2_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Nora Patel",
+          "text": "Marco, is there a fridge in our room? Leah needs to keep her medication cold.",
+          "turn_id": "S2_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, there’s a mini fridge in room 412. It’s already running.",
+          "turn_id": "S2_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Leah Patel",
+          "text": "Mom, can I keep my drinks in there too? I brought a bunch.",
+          "turn_id": "S2_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Nora Patel",
+          "text": "Of course, Leah. Just leave space for your meds.",
+          "turn_id": "S2_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, do you need directions to the parking garage?",
+          "turn_id": "S2_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Evan Patel",
+          "text": "That’d be great, Marco. I’ve never parked here before.",
+          "turn_id": "S2_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Marco Ruiz",
+          "text": "Just head left after the loading zone, then follow the signs for guest parking.",
+          "turn_id": "S2_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you want me to book tickets for the VR exhibit in advance?",
+          "turn_id": "S2_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Nora Patel",
+          "text": "Yes, please. I’d rather not risk it selling out.",
+          "turn_id": "S2_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Tessa! That’s the main thing I wanted to do.",
+          "turn_id": "S2_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Tessa Kim",
+          "text": "No problem, Leah. I’ll confirm your spot and text you the ticket info.",
+          "turn_id": "S2_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Nora Patel",
+          "text": "Marco, is there a place nearby for coffee in the morning?",
+          "turn_id": "S2_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Marco Ruiz",
+          "text": "There’s a café in the lobby, opens at 7. They do great espresso.",
+          "turn_id": "S2_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Evan Patel",
+          "text": "We’ll need one parking pass when we arrive.",
+          "turn_id": "S2_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Marco Ruiz",
+          "text": "No problem, Evan. I’ll have your parking pass ready at check-in.",
+          "turn_id": "S2_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there a wheelchair ramp at the main entrance?",
+          "turn_id": "S2_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Leah. The ramp is right next to the front doors.",
+          "turn_id": "S2_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Evan Patel",
+          "text": "Leah, do you want me to push your chair or do you want to try the ramp yourself?",
+          "turn_id": "S2_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Leah Patel",
+          "text": "I’ll try it myself first, Dad. If it’s too steep, I’ll ask for help.",
+          "turn_id": "S2_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Tessa Kim",
+          "text": "Marco, is there a late checkout option for Sunday?",
+          "turn_id": "S2_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Tessa. You can check out as late as noon, just let me know ahead of time.",
+          "turn_id": "S2_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Nora Patel",
+          "text": "Leah, do you want to visit the gift shop after the science center?",
+          "turn_id": "S2_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Leah Patel",
+          "text": "Yeah, I want to see if they have cool souvenirs.",
+          "turn_id": "S2_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Evan Patel",
+          "text": "Marco, how do we get our parking pass? Is it at the front desk?",
+          "turn_id": "S2_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, just stop by the front desk and I’ll hand it to you.",
+          "turn_id": "S2_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you need anything else adjusted in the itinerary before tomorrow?",
+          "turn_id": "S2_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Nora Patel",
+          "text": "No, I think we’re set. Thanks for juggling everything, Tessa.",
+          "turn_id": "S2_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Marco Ruiz",
+          "text": "Welcome again, Patel family. Let me know if you need anything else during your stay.",
+          "turn_id": "S2_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S3",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Okay, we’ve got about twenty minutes before the train boards. Is everyone good with their bags?",
+          "turn_id": "S3_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Leah Patel",
+          "text": "I think so. I just need to grab my headphones out of my backpack.",
+          "turn_id": "S3_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Evan Patel",
+          "text": "Leah, make sure you don’t leave your charger behind again.",
+          "turn_id": "S3_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Leah Patel",
+          "text": "I won’t, Dad. I put it in the side pocket this time.",
+          "turn_id": "S3_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, just confirming, you’ll be checking in around noon, right?",
+          "turn_id": "S3_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "Yes, Marco, that’s the plan. We’ll drop our bags at the desk if the room’s not ready.",
+          "turn_id": "S3_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Evan Patel",
+          "text": "Which bag do you need to keep with you? The blue carry-on?",
+          "turn_id": "S3_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Leah Patel",
+          "text": "Yeah, the blue one’s got my meds and snacks. I need that with me.",
+          "turn_id": "S3_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you want me to text you the updated itinerary? I made a couple tweaks for accessibility.",
+          "turn_id": "S3_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Nora Patel",
+          "text": "That’d be great, Tessa. Thanks for double-checking the step-free routes.",
+          "turn_id": "S3_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Evan Patel",
+          "text": "Marco, is there a spot to store a stroller at the hotel? We brought Leah’s old one for her ankle.",
+          "turn_id": "S3_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Evan. We’ve got a luggage room and can tag it for you.",
+          "turn_id": "S3_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you pack my allergy card? I want to grab something at the station café.",
+          "turn_id": "S3_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Nora Patel",
+          "text": "Yep, it’s in the front pocket of your carry-on, Leah.",
+          "turn_id": "S3_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I made sure the lunch spot I picked is nut-free. Let me know if you want to change it.",
+          "turn_id": "S3_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Tessa! That’s perfect. I’m good with it.",
+          "turn_id": "S3_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Evan Patel",
+          "text": "Nora, did you see if there’s a lift at the station? I don’t want to drag the suitcase up stairs.",
+          "turn_id": "S3_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Nora Patel",
+          "text": "Yeah, there’s an elevator by the main entrance. We’ll use that.",
+          "turn_id": "S3_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you know if the museum tickets are flexible? Sometimes check-in runs late.",
+          "turn_id": "S3_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Tessa Kim",
+          "text": "They’re good for any time after noon, Marco. No rush.",
+          "turn_id": "S3_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Leah Patel",
+          "text": "Dad, can you carry my water bottle? My backpack’s stuffed.",
+          "turn_id": "S3_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Evan Patel",
+          "text": "Sure, hand it over. I’ve got space in my bag.",
+          "turn_id": "S3_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Nora Patel",
+          "text": "Marco, if we get in early, is there a lounge we can wait in?",
+          "turn_id": "S3_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, we have a small lobby lounge with coffee and snacks. You’re welcome to relax there.",
+          "turn_id": "S3_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Tessa Kim",
+          "text": "Nora, did you see my note about the art walk? It’s optional, but I thought Leah might like it.",
+          "turn_id": "S3_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Nora Patel",
+          "text": "I did! Leah, want to check out some murals after lunch?",
+          "turn_id": "S3_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Tessa Kim",
+          "text": "Your train leaves from platform 6.",
+          "turn_id": "S3_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Nora Patel",
+          "text": "Platform 6, got it. That’s not far from the main entrance, right?",
+          "turn_id": "S3_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Tessa Kim",
+          "text": "Right, it’s just down the hall. There’s an elevator right by the sign.",
+          "turn_id": "S3_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Evan Patel",
+          "text": "Leah, do you want to grab a snack now or wait for the train?",
+          "turn_id": "S3_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Leah Patel",
+          "text": "Let’s wait. I’m not super hungry yet.",
+          "turn_id": "S3_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, if you need anything else for your room, just text me before you arrive.",
+          "turn_id": "S3_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco. I’ll let you know if we think of anything.",
+          "turn_id": "S3_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I added a note for the café about your dairy allergy, just in case.",
+          "turn_id": "S3_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Tessa. That makes me feel a lot better.",
+          "turn_id": "S3_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Evan Patel",
+          "text": "Do you want me to keep the train tickets, or do you have them on your phone?",
+          "turn_id": "S3_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Nora Patel",
+          "text": "They’re on my phone and I printed a backup, just in case.",
+          "turn_id": "S3_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you know if the city shuttle is running today?",
+          "turn_id": "S3_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Tessa Kim",
+          "text": "Yes, it’s on a normal schedule. I’ll send the timetable to Nora.",
+          "turn_id": "S3_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Leah Patel",
+          "text": "Mom, do you have gum? My ears always pop on the train.",
+          "turn_id": "S3_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Nora Patel",
+          "text": "I do! Check the little zip pouch in my purse.",
+          "turn_id": "S3_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Evan Patel",
+          "text": "Marco, is the hotel entrance step-free? We’ll have a rolling suitcase and the stroller.",
+          "turn_id": "S3_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, there’s a ramp right by the main doors. No steps at all.",
+          "turn_id": "S3_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Tessa Kim",
+          "text": "Nora, just a heads up, the weather’s turned a bit rainy. I’d bring the umbrellas.",
+          "turn_id": "S3_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Nora Patel",
+          "text": "Thanks for the warning! I’ll grab them from the car before we go.",
+          "turn_id": "S3_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Nora Patel",
+          "text": "The larger cases should go to the hotel luggage desk.",
+          "turn_id": "S3_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Evan Patel",
+          "text": "Okay, I’ll take them straight there after we check in.",
+          "turn_id": "S3_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there Wi-Fi in the lobby? I want to download a show while we wait.",
+          "turn_id": "S3_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Leah, there’s free Wi-Fi everywhere in the hotel. I’ll give you the code at check-in.",
+          "turn_id": "S3_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Tessa Kim",
+          "text": "Evan, if you need a taxi with a ramp, let me know. I can book one for you.",
+          "turn_id": "S3_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Tessa. I think we’re okay, but I’ll text if we need help.",
+          "turn_id": "S3_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Nora Patel",
+          "text": "Leah, double-check that you’ve got your train ticket, please.",
+          "turn_id": "S3_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Leah Patel",
+          "text": "Got it, Mom. It’s in my phone wallet.",
+          "turn_id": "S3_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, do you need help with the luggage when you arrive? I can have someone meet you.",
+          "turn_id": "S3_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Nora Patel",
+          "text": "That’d be fantastic, Marco. We’ll have a couple heavy bags.",
+          "turn_id": "S3_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I added a museum scavenger hunt for you if you want to try it.",
+          "turn_id": "S3_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Leah Patel",
+          "text": "That sounds awesome! I’ll definitely do it.",
+          "turn_id": "S3_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Evan Patel",
+          "text": "Alright, let’s head toward platform 6. We don’t want to rush.",
+          "turn_id": "S3_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Nora Patel",
+          "text": "Good idea. Everyone, grab your stuff and let’s go.",
+          "turn_id": "S3_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Marco Ruiz",
+          "text": "Safe travels! I’ll see you all at the hotel soon.",
+          "turn_id": "S3_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S4",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Evan, did you double-check the parking situation for the museum? I just want to make sure we don’t end up circling.",
+          "turn_id": "S4_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Evan Patel",
+          "text": "Yeah, Nora, I looked it up. There’s a garage two blocks away, so we should be fine. I’ll drop everyone at the entrance first.",
+          "turn_id": "S4_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there somewhere safe to leave our luggage at the hotel after checkout? We don’t want to drag it to the museum.",
+          "turn_id": "S4_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Leah. We’ve got a secure storage room, and I’ll make sure your bags are tagged. Just drop them at the front desk.",
+          "turn_id": "S4_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Tessa Kim",
+          "text": "Nora, Leah, did you want me to confirm your lunch reservation after the museum? I can call ahead if you’re still set on Italian.",
+          "turn_id": "S4_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "That’d be great, Tessa. We’re definitely craving pasta, so if you can book that place near the gallery, it’d be perfect.",
+          "turn_id": "S4_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Leah Patel",
+          "text": "We've got the 11:30 entry slot, right?",
+          "turn_id": "S4_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Tessa Kim",
+          "text": "Yep, Leah, your tickets are locked in for 11:30. I’ll send you the QR codes in a minute.",
+          "turn_id": "S4_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Evan Patel",
+          "text": "Marco, do you know if the hotel shuttle can drop us at the museum, or should we just drive?",
+          "turn_id": "S4_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, the shuttle’s booked up this morning, so driving’s your best bet. I’ll give you directions if you need.",
+          "turn_id": "S4_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you pack my sketchbook? I want to draw at the museum.",
+          "turn_id": "S4_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Nora Patel",
+          "text": "Of course, Leah. It’s in your backpack with your pencils. Don’t forget to grab it before we leave.",
+          "turn_id": "S4_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Tessa Kim",
+          "text": "Evan, I sent you the parking map for the museum. Let me know if you need anything else.",
+          "turn_id": "S4_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Tessa. Got it on my phone. I’ll check it before we head out.",
+          "turn_id": "S4_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, if you need any extra towels or toiletries before you check out, just call down. I’m Marco, by the way.",
+          "turn_id": "S4_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco. We’re all set for now, but I’ll let you know if anything comes up.",
+          "turn_id": "S4_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Leah Patel",
+          "text": "Tessa, do you know if the museum café has any vegan options? I don’t want to get stuck with just salad.",
+          "turn_id": "S4_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Tessa Kim",
+          "text": "Leah, they’ve got a couple vegan sandwiches and a soup. I’ll check their menu again and text you if I spot anything else.",
+          "turn_id": "S4_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Evan Patel",
+          "text": "Nora, do you want to swing by the bakery before we head to the museum? We’ve got a bit of time.",
+          "turn_id": "S4_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Nora Patel",
+          "text": "That sounds good, Evan. Leah, do you want anything from the bakery?",
+          "turn_id": "S4_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Leah Patel",
+          "text": "Can I get a cinnamon roll? If they have a vegan one, that’d be awesome.",
+          "turn_id": "S4_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you need me to print anything for the Patels before they head out? I can do tickets or maps.",
+          "turn_id": "S4_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Tessa Kim",
+          "text": "Thanks, Marco. I think they’re good with digital, but maybe print the museum map just in case.",
+          "turn_id": "S4_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Evan Patel",
+          "text": "Leah, don’t forget your phone charger. You’ll want it for all those photos.",
+          "turn_id": "S4_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Dad. I’ve got it in my bag. I’m not risking a dead battery at the museum.",
+          "turn_id": "S4_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Nora Patel",
+          "text": "Tessa, is there anything we need to bring for the accessibility stuff? I want to be prepared.",
+          "turn_id": "S4_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Tessa Kim",
+          "text": "Can you reserve two mobility stools for the museum visit?",
+          "turn_id": "S4_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Marco Ruiz",
+          "text": "Sure thing, Tessa. I’ll call the museum and make sure they’re ready for the Patels when they arrive.",
+          "turn_id": "S4_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Leah Patel",
+          "text": "Mom, do you want to check out the new modern art wing? I heard it’s got some cool installations.",
+          "turn_id": "S4_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Nora Patel",
+          "text": "Definitely, Leah. I love modern art. Evan, are you up for that section?",
+          "turn_id": "S4_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Evan Patel",
+          "text": "Sure, Nora. I’ll tag along. Maybe I’ll find something I actually like this time.",
+          "turn_id": "S4_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I checked the museum’s events calendar. There’s a sketching workshop at noon if you’re interested.",
+          "turn_id": "S4_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Leah Patel",
+          "text": "That sounds awesome, Tessa! Can you sign me up, or should I just show up?",
+          "turn_id": "S4_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Tessa Kim",
+          "text": "I’ll register you, Leah. It’s free with your ticket. I’ll email you the confirmation.",
+          "turn_id": "S4_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, if you need directions to the east entrance, let me know. It’s the easiest for drop-off.",
+          "turn_id": "S4_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco. I’ll take you up on that. Can you text me the route?",
+          "turn_id": "S4_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Nora Patel",
+          "text": "Tessa, any updates on the lunch reservation? I want to make sure we’re not rushed after the museum.",
+          "turn_id": "S4_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Tessa Kim",
+          "text": "Just got off the phone, Nora. You’re booked for 1:15 at Trattoria Verde. They know about Leah’s vegan request.",
+          "turn_id": "S4_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Tessa! I really appreciate you mentioning the vegan thing.",
+          "turn_id": "S4_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Tessa Kim",
+          "text": "No problem, Leah. They said they’ll have a couple options ready for you.",
+          "turn_id": "S4_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, do you need a late checkout? I can extend it by an hour if you want to freshen up after the museum.",
+          "turn_id": "S4_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Nora Patel",
+          "text": "That’d be really helpful, Marco. If you can push it to noon, we won’t have to rush.",
+          "turn_id": "S4_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Evan Patel",
+          "text": "Leah, do you want to hit the gift shop before we leave? I know you love those museum pins.",
+          "turn_id": "S4_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Leah Patel",
+          "text": "Definitely, Dad. I’ll grab a couple for my collection. Maybe a postcard too.",
+          "turn_id": "S4_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Tessa Kim",
+          "text": "Marco, can you remind the museum staff about the accessibility request? Just so nothing slips through.",
+          "turn_id": "S4_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Marco Ruiz",
+          "text": "You'll want to use the east entrance—it avoids the stairs.",
+          "turn_id": "S4_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco. That’s exactly what we needed. We’ll head straight there.",
+          "turn_id": "S4_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Leah Patel",
+          "text": "Tessa, is there a coat check at the museum? I don’t want to carry my jacket around all day.",
+          "turn_id": "S4_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Tessa Kim",
+          "text": "Yes, Leah, there’s a coat check right by the entrance. It’s free with your ticket.",
+          "turn_id": "S4_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Evan Patel",
+          "text": "Marco, do you know if there’s a place to grab coffee near the museum? I’ll need a caffeine boost.",
+          "turn_id": "S4_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, there’s a café across the street. Good espresso, and they open early.",
+          "turn_id": "S4_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Nora Patel",
+          "text": "Tessa, if the museum schedule changes last minute, can you text us right away?",
+          "turn_id": "S4_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Tessa Kim",
+          "text": "Of course, Nora. I’ll keep an eye on their updates and let you know if anything shifts.",
+          "turn_id": "S4_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Leah Patel",
+          "text": "Marco, is the hotel lobby open late? I might want to hang out there after lunch.",
+          "turn_id": "S4_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Leah, the lobby’s open all afternoon. There are comfy chairs and WiFi if you need it.",
+          "turn_id": "S4_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Evan Patel",
+          "text": "Nora, did you bring the museum membership card? Sometimes it gets us discounts.",
+          "turn_id": "S4_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Nora Patel",
+          "text": "I did, Evan. It’s in my wallet. We’ll see if it helps with the gift shop or café.",
+          "turn_id": "S4_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Tessa Kim",
+          "text": "Marco, I just sent you the Patels’ itinerary. Let me know if you spot any conflicts.",
+          "turn_id": "S4_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Marco Ruiz",
+          "text": "Got it, Tessa. Everything looks smooth. I’ll flag you if anything comes up.",
+          "turn_id": "S4_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Leah Patel",
+          "text": "Okay, ready to roll! Let’s make sure we don’t miss that 11:30 slot.",
+          "turn_id": "S4_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S5",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Hey Tessa, did you get a chance to check the weather for tomorrow? I heard it might be changing again.",
+          "turn_id": "S5_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Tessa Kim",
+          "text": "Yeah, I just checked. Looks like showers in the afternoon, so we might need to tweak the itinerary a bit.",
+          "turn_id": "S5_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, if you need umbrellas or extra towels at the hotel, just let me know. We’re ready for rainy guests.",
+          "turn_id": "S5_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco. That’s super helpful. We might take you up on the umbrellas if the rain gets heavy.",
+          "turn_id": "S5_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Leah Patel",
+          "text": "Mom, are we still doing the boat ride, or is that off now because of the weather?",
+          "turn_id": "S5_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "I’m not sure yet, Leah. Tessa’s working on a backup plan, so we’ll see what she suggests.",
+          "turn_id": "S5_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Tessa Kim",
+          "text": "There’s a 3 p.m. walking tour that’s mostly under covered arcades, so you won’t get soaked.",
+          "turn_id": "S5_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Nora Patel",
+          "text": "Oh, that sounds perfect. Thanks for finding something weather-safe.",
+          "turn_id": "S5_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Marco Ruiz",
+          "text": "Leah, if you need a dry place to hang out before the tour, our lounge is open all day.",
+          "turn_id": "S5_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Leah Patel",
+          "text": "Awesome, thanks Marco! I might just chill there if it’s pouring.",
+          "turn_id": "S5_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Evan Patel",
+          "text": "Do we need to bring anything extra for the walking tour? Like snacks or water?",
+          "turn_id": "S5_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Nora Patel",
+          "text": "Let’s pack some water bottles and maybe a couple granola bars, just in case.",
+          "turn_id": "S5_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Tessa Kim",
+          "text": "Leah, do you want me to check if there’s a vegan-friendly spot for lunch near the tour?",
+          "turn_id": "S5_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Leah Patel",
+          "text": "Yes, please! That’d be great. I’d rather not end up with just fries again.",
+          "turn_id": "S5_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, I can recommend a couple of accessible restaurants if you need.",
+          "turn_id": "S5_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Evan Patel",
+          "text": "That’d be awesome, Marco. Accessibility is always a priority for us.",
+          "turn_id": "S5_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Nora Patel",
+          "text": "Tessa, is the walking tour wheelchair accessible? Just want to double-check.",
+          "turn_id": "S5_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Tessa Kim",
+          "text": "Yes, it is! The route’s all flat and ramps are available at every stop.",
+          "turn_id": "S5_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Leah Patel",
+          "text": "Dad, do you want me to help with the bags tomorrow morning? I can grab the smaller ones.",
+          "turn_id": "S5_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Evan Patel",
+          "text": "That’d be great, Leah. I’ll handle the big suitcase and you can take the backpack.",
+          "turn_id": "S5_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, if you need luggage storage before check-in, just let me know. We’ve got space.",
+          "turn_id": "S5_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco! That’ll make things way easier, especially with the rain.",
+          "turn_id": "S5_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Tessa Kim",
+          "text": "Evan, do you want me to send you the updated itinerary by email or text?",
+          "turn_id": "S5_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Evan Patel",
+          "text": "Text works best for me, thanks. I’ll share it with Nora and Leah.",
+          "turn_id": "S5_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you pack my charger or should I grab it?",
+          "turn_id": "S5_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Nora Patel",
+          "text": "I haven’t packed it yet, Leah. Can you grab it from your room?",
+          "turn_id": "S5_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Nora Patel",
+          "text": "Don’t forget to pack rain jackets for everyone, please.",
+          "turn_id": "S5_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Leah Patel",
+          "text": "Got it, I’ll grab the jackets. I’ll check if Dad’s is in the closet too.",
+          "turn_id": "S5_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you need any info from me about the hotel’s accessibility features for tomorrow?",
+          "turn_id": "S5_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Tessa Kim",
+          "text": "If you could send a quick list, that’d be helpful. I’ll add it to the itinerary notes.",
+          "turn_id": "S5_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Evan Patel",
+          "text": "Are we bringing umbrellas or just the jackets?",
+          "turn_id": "S5_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Nora Patel",
+          "text": "Let’s bring both. Marco said he has extras, but it’s good to have our own.",
+          "turn_id": "S5_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there a spot in the hotel to dry wet shoes? I always step in puddles.",
+          "turn_id": "S5_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Leah. We’ve got a drying room right by the lobby.",
+          "turn_id": "S5_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you want the walking tour guide’s contact info in case you need to reach them?",
+          "turn_id": "S5_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Nora Patel",
+          "text": "Yes, please. That’ll be handy if we’re running late or need to ask about accessibility.",
+          "turn_id": "S5_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Evan Patel",
+          "text": "Leah, did you pack your headphones? You always need them for city walks.",
+          "turn_id": "S5_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Leah Patel",
+          "text": "Yep, they’re in my backpack. I’m not going anywhere without music.",
+          "turn_id": "S5_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, let me know if you want a late checkout. It’s flexible if your plans change.",
+          "turn_id": "S5_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Marco. I’ll keep that in mind, especially if the weather slows us down.",
+          "turn_id": "S5_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I found a vegan café two blocks from the tour start. Want me to book a table?",
+          "turn_id": "S5_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Leah Patel",
+          "text": "Yes, please! That sounds perfect. Thanks for looking it up.",
+          "turn_id": "S5_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Evan Patel",
+          "text": "Marco, is parking still available for tomorrow morning? We’ll be arriving pretty early.",
+          "turn_id": "S5_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Evan. Your spot is reserved, so you can park anytime after 8 a.m.",
+          "turn_id": "S5_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Nora Patel",
+          "text": "Tessa, is there anything else we need to confirm for tomorrow’s activities?",
+          "turn_id": "S5_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Evan Patel",
+          "text": "Let’s cancel the river boat since the weather’s not cooperating.",
+          "turn_id": "S5_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Tessa Kim",
+          "text": "Alright, I’ll remove the boat ride from the schedule and let the operator know.",
+          "turn_id": "S5_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Leah Patel",
+          "text": "Mom, should I bring a book for downtime, or will we be busy all afternoon?",
+          "turn_id": "S5_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Nora Patel",
+          "text": "Bring one just in case. There’s always a bit of waiting between activities.",
+          "turn_id": "S5_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, if you need help with any last-minute changes, just text me. I’m around all evening.",
+          "turn_id": "S5_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Tessa Kim",
+          "text": "Thanks, Marco. I’ll reach out if anything pops up.",
+          "turn_id": "S5_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Evan Patel",
+          "text": "Nora, did you double-check the allergy info for the lunch spot?",
+          "turn_id": "S5_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Nora Patel",
+          "text": "Yes, I did. They’re nut-free and have gluten-free options too.",
+          "turn_id": "S5_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there Wi-Fi in the lounge? I might want to stream something if we’re waiting.",
+          "turn_id": "S5_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Leah. The lounge Wi-Fi is fast and free.",
+          "turn_id": "S5_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Tessa Kim",
+          "text": "Nora, I’ll text you the walking tour guide’s number and the vegan café reservation.",
+          "turn_id": "S5_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Nora Patel",
+          "text": "Perfect, thanks Tessa. That covers everything I was worried about.",
+          "turn_id": "S5_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Evan Patel",
+          "text": "Leah, did you grab your rain boots or just sneakers?",
+          "turn_id": "S5_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Leah Patel",
+          "text": "I packed both. If it’s really wet, I’ll wear the boots.",
+          "turn_id": "S5_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Marco Ruiz",
+          "text": "Let me know if you need anything else before you arrive. I’m happy to help with last-minute stuff.",
+          "turn_id": "S5_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S6",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Marco, thanks for meeting us in the lobby. We’re hoping to sort breakfast options for tomorrow.",
+          "turn_id": "S6_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Marco Ruiz",
+          "text": "Of course, Nora. Evan, I can walk you through the menu and allergy protocols if you’d like.",
+          "turn_id": "S6_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Evan Patel",
+          "text": "That’d be great, Marco. Leah has a sesame allergy, so we’re extra careful.",
+          "turn_id": "S6_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Leah Patel",
+          "text": "Yeah, it’s pretty severe. I always double-check labels and ingredients.",
+          "turn_id": "S6_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Tessa Kim",
+          "text": "Hi Nora, Leah! I’m Tessa, your travel planner. I’ll help coordinate any last-minute changes or requests.",
+          "turn_id": "S6_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Tessa. We might need your help with dinner plans later, too.",
+          "turn_id": "S6_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Marco Ruiz",
+          "text": "For breakfast, I recommend the garden cafe. They’re really good about allergies.",
+          "turn_id": "S6_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Nora Patel",
+          "text": "That sounds perfect. Is it close by? We don’t want to walk too far in the morning.",
+          "turn_id": "S6_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Marco Ruiz",
+          "text": "It’s just around the corner from the hotel entrance, so you won’t have to go far.",
+          "turn_id": "S6_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Leah Patel",
+          "text": "Do they have gluten-free options too? My friend always asks for those.",
+          "turn_id": "S6_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, they do. You’ll find gluten-free bread and pastries, plus dairy alternatives.",
+          "turn_id": "S6_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Evan Patel",
+          "text": "Great, that covers us. Is there a way to pre-order or flag the allergy before we arrive?",
+          "turn_id": "S6_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely. I’ll call ahead and let them know about Leah’s sesame allergy.",
+          "turn_id": "S6_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Tessa Kim",
+          "text": "Leah, are you okay with the garden cafe for breakfast, or do you want to check another spot?",
+          "turn_id": "S6_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Leah Patel",
+          "text": "I’m good with it. As long as they know about the sesame, I’ll be fine.",
+          "turn_id": "S6_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Nora Patel",
+          "text": "Tessa, do you have the itinerary handy? We might need to shuffle a few things.",
+          "turn_id": "S6_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Tessa Kim",
+          "text": "Yep, I’ve got it right here. What’s changed?",
+          "turn_id": "S6_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Evan Patel",
+          "text": "We might need to push the museum visit back an hour, since breakfast is later than planned.",
+          "turn_id": "S6_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Tessa Kim",
+          "text": "No problem, I’ll move the museum slot to 11 instead of 10.",
+          "turn_id": "S6_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you pack my allergy meds in your bag or mine?",
+          "turn_id": "S6_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Nora Patel",
+          "text": "They’re in your backpack, front pocket. I double-checked before we left.",
+          "turn_id": "S6_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Evan Patel",
+          "text": "If you want, I can carry the backup EpiPen in my jacket, just in case.",
+          "turn_id": "S6_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Dad. That makes me feel safer.",
+          "turn_id": "S6_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Marco Ruiz",
+          "text": "Do you need help with luggage? The elevators are right behind you, and I can grab a cart.",
+          "turn_id": "S6_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Evan Patel",
+          "text": "We’re good, thanks. Just two bags and Leah’s backpack, so we can manage.",
+          "turn_id": "S6_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Tessa Kim",
+          "text": "Nora, did you want to add anything special for breakfast besides the allergy note?",
+          "turn_id": "S6_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Nora Patel",
+          "text": "Could you also make sure there’s no sesame garnish on anything Leah orders?",
+          "turn_id": "S6_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Marco Ruiz",
+          "text": "Definitely. I’ll tell the kitchen to skip sesame garnish for Leah’s meal.",
+          "turn_id": "S6_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Marco. That’s usually where I get caught out.",
+          "turn_id": "S6_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Marco Ruiz",
+          "text": "No problem, Leah. We’ll make sure your breakfast is safe and tasty.",
+          "turn_id": "S6_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Tessa Kim",
+          "text": "Evan, are you still planning to drive to the art gallery after lunch?",
+          "turn_id": "S6_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Evan Patel",
+          "text": "Yeah, unless there’s a traffic issue. I’ll check Google Maps before we head out.",
+          "turn_id": "S6_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Nora Patel",
+          "text": "Tessa, can you confirm if the gallery is wheelchair accessible? My mom might join us.",
+          "turn_id": "S6_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Tessa Kim",
+          "text": "I’ll call and check. I think they have ramps and accessible bathrooms, but I’ll make sure.",
+          "turn_id": "S6_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Leah Patel",
+          "text": "Tessa, can you also see if the gallery has a student discount? I brought my ID.",
+          "turn_id": "S6_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Tessa Kim",
+          "text": "Good thinking, Leah. I’ll ask about student pricing when I call.",
+          "turn_id": "S6_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Marco Ruiz",
+          "text": "If you need a taxi instead of driving, I can book one for you. Just let me know.",
+          "turn_id": "S6_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco. We’ll see how the weather is and decide in the morning.",
+          "turn_id": "S6_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Nora Patel",
+          "text": "Leah, do you want to pick tonight’s dinner spot, or should we stick to the hotel restaurant?",
+          "turn_id": "S6_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Leah Patel",
+          "text": "I kind of want to try something local. Maybe Italian? But only if they can handle allergies.",
+          "turn_id": "S6_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Tessa Kim",
+          "text": "I know a good Italian place nearby. They’re used to allergy requests. Want me to call and check?",
+          "turn_id": "S6_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Nora Patel",
+          "text": "Yes, please. Ask if they can do a sesame-free meal for Leah.",
+          "turn_id": "S6_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Tessa Kim",
+          "text": "Will do. I’ll let you know what they say in a few minutes.",
+          "turn_id": "S6_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Evan Patel",
+          "text": "Leah, any particular pasta or pizza you’re craving tonight?",
+          "turn_id": "S6_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Leah Patel",
+          "text": "I saw lemon pasta on their menu online. It looked amazing.",
+          "turn_id": "S6_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Leah Patel",
+          "text": "I want the lemon pasta for dinner.",
+          "turn_id": "S6_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Evan Patel",
+          "text": "Nice choice! I’ll make sure Tessa checks if it’s safe for you.",
+          "turn_id": "S6_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Tessa Kim",
+          "text": "Leah, I’ll ask specifically about the lemon pasta and sesame when I call.",
+          "turn_id": "S6_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Leah Patel",
+          "text": "Thanks, Tessa. I really appreciate it.",
+          "turn_id": "S6_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Marco Ruiz",
+          "text": "If you need directions to the Italian restaurant, just ask. It’s easy to get turned around downtown.",
+          "turn_id": "S6_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco. I’ll probably use Google Maps, but a local tip always helps.",
+          "turn_id": "S6_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Nora Patel",
+          "text": "Tessa, if the Italian place can’t do sesame-free, can you suggest a backup?",
+          "turn_id": "S6_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Tessa Kim",
+          "text": "Absolutely. There’s a Mediterranean spot nearby that’s allergy-friendly.",
+          "turn_id": "S6_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Leah Patel",
+          "text": "Mom, I’d be happy with Mediterranean if Italian doesn’t work out.",
+          "turn_id": "S6_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Nora Patel",
+          "text": "Good to know, Leah. We’ll keep both options open.",
+          "turn_id": "S6_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, let me know if you need help booking a table or arranging transport.",
+          "turn_id": "S6_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Tessa Kim",
+          "text": "Thanks, Marco. I’ll text you if I need anything. You’re a lifesaver.",
+          "turn_id": "S6_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Evan Patel",
+          "text": "Nora, do you want to check the weather before we head out for dinner?",
+          "turn_id": "S6_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Nora Patel",
+          "text": "Good idea. I’ll pull up the forecast now so we know if we need umbrellas.",
+          "turn_id": "S6_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Leah Patel",
+          "text": "Let’s hope it’s dry! I don’t want soggy pasta tonight.",
+          "turn_id": "S6_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S7",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Morning, Tessa! We’ve got a little change in our plans, so I hope you’re ready for some last-minute tweaks.",
+          "turn_id": "S7_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Tessa Kim",
+          "text": "Always ready! What’s up, Nora? Do you need to shift something in the itinerary?",
+          "turn_id": "S7_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Leah Patel",
+          "text": "Hey Marco, do you know if there’s somewhere I can charge my tablet before we head out?",
+          "turn_id": "S7_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Marco Ruiz",
+          "text": "Hi Leah, yes, I’ll let you know where you can plug it in. By the way, is Evan around? I need to confirm the checkout time.",
+          "turn_id": "S7_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Evan Patel",
+          "text": "I’m here, Marco. Just sorting the bags. Let’s talk about checkout.",
+          "turn_id": "S7_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Marco Ruiz",
+          "text": "Perfect, Evan. Do you know what time you’re planning to leave?",
+          "turn_id": "S7_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Evan Patel",
+          "text": "We’re aiming for an 8:45 a.m. checkout.",
+          "turn_id": "S7_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Marco Ruiz",
+          "text": "Got it, 8:45. I’ll make sure everything’s ready for you by then.",
+          "turn_id": "S7_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Leah Patel",
+          "text": "Mom, are we still doing the museum this morning or did Tessa change that?",
+          "turn_id": "S7_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Nora Patel",
+          "text": "We’re swapping the museum for the park, Leah. Tessa’s helping us adjust the schedule.",
+          "turn_id": "S7_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Tessa Kim",
+          "text": "I’ll update your itinerary and send you the new route. Is everyone okay with the park instead?",
+          "turn_id": "S7_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Evan Patel",
+          "text": "Works for me. I’ll park closer so it’s easier for Nora.",
+          "turn_id": "S7_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Nora Patel",
+          "text": "Thanks, Evan. That’ll help a lot with my knee.",
+          "turn_id": "S7_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you need any info from me for the park visit? Accessibility details, maybe?",
+          "turn_id": "S7_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Tessa Kim",
+          "text": "That’d be great, Marco. If you have specifics on ramps or accessible paths, send them over.",
+          "turn_id": "S7_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Leah Patel",
+          "text": "Dad, did you pack my headphones? I left them on the desk.",
+          "turn_id": "S7_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Evan Patel",
+          "text": "Yep, got them in your backpack. Anything else you need?",
+          "turn_id": "S7_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Leah Patel",
+          "text": "Nope, that’s it. Thanks!",
+          "turn_id": "S7_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Nora Patel",
+          "text": "Marco, is there a spot we can leave our bags after checkout if we want to walk around a bit?",
+          "turn_id": "S7_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Marco Ruiz",
+          "text": "Absolutely, Nora. We have a luggage room by the front desk. I’ll tag your bags for you.",
+          "turn_id": "S7_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Tessa Kim",
+          "text": "Leah, do you want me to check if the park has free WiFi for your tablet?",
+          "turn_id": "S7_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Leah Patel",
+          "text": "Yes, please! That’d be awesome if you could.",
+          "turn_id": "S7_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Evan Patel",
+          "text": "Marco, are there any breakfast places nearby that open early? We want to grab something before we leave.",
+          "turn_id": "S7_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Marco Ruiz",
+          "text": "There’s a bakery two blocks down that opens at 7:30. They’ve got gluten-free options, too.",
+          "turn_id": "S7_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Nora Patel",
+          "text": "Tessa, can you double-check that the park has accessible bathrooms? It’s important for us.",
+          "turn_id": "S7_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Tessa Kim",
+          "text": "Absolutely, Nora. I’ll confirm and text you the details.",
+          "turn_id": "S7_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Marco Ruiz",
+          "text": "You can use the lobby charging locker for your tablet.",
+          "turn_id": "S7_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Leah Patel",
+          "text": "Perfect, thanks! I’ll plug it in now so it’s ready for later.",
+          "turn_id": "S7_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Evan Patel",
+          "text": "Nora, do you want to grab coffee at the bakery, or should I make some here before we leave?",
+          "turn_id": "S7_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Nora Patel",
+          "text": "Let’s just grab it at the bakery. Less to clean up here.",
+          "turn_id": "S7_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Tessa Kim",
+          "text": "Marco, do you know if the bakery has nut-free pastries? Leah has an allergy.",
+          "turn_id": "S7_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, they do. Just let them know when you order, and they’ll point out the safe options.",
+          "turn_id": "S7_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Leah Patel",
+          "text": "Mom, can we get those mini croissants again? They were so good yesterday.",
+          "turn_id": "S7_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Nora Patel",
+          "text": "Of course, Leah. I’ll make sure they’re nut-free for you.",
+          "turn_id": "S7_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Evan Patel",
+          "text": "Marco, how long does it take to get to the park from here? Just so we can plan our morning.",
+          "turn_id": "S7_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Marco Ruiz",
+          "text": "It’s about a 10-minute drive, or 20 if you walk. The taxi van can drop you right at the entrance.",
+          "turn_id": "S7_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Tessa Kim",
+          "text": "Evan, do you want me to book the taxi van for your return, or are you driving?",
+          "turn_id": "S7_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Evan Patel",
+          "text": "Let’s do the taxi van for the return. That way I can relax and not worry about parking.",
+          "turn_id": "S7_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Nora Patel",
+          "text": "Tessa, can you make sure the taxi van is wheelchair accessible? I don’t want any surprises.",
+          "turn_id": "S7_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Tessa Kim",
+          "text": "Definitely, Nora. I’ll double-check and confirm with the taxi company.",
+          "turn_id": "S7_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Leah Patel",
+          "text": "Tessa, can you add a stop at the comic shop on the way back? I really want to check it out.",
+          "turn_id": "S7_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Tessa Kim",
+          "text": "Sure thing, Leah. I’ll add it to the route and let the driver know.",
+          "turn_id": "S7_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, do you need help with your luggage? I can grab a trolley for you.",
+          "turn_id": "S7_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Evan Patel",
+          "text": "Thanks, Marco, but I think we’ve got it covered. Appreciate the offer, though.",
+          "turn_id": "S7_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Nora Patel",
+          "text": "Leah, did you remember your water bottle? You’ll need it at the park.",
+          "turn_id": "S7_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Nora Patel",
+          "text": "Tessa, can you arrange a taxi van for our return trip?",
+          "turn_id": "S7_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Tessa Kim",
+          "text": "Absolutely, Nora. I’ll book a taxi van and send you the confirmation.",
+          "turn_id": "S7_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Leah Patel",
+          "text": "Yep, got it in my backpack. Thanks for reminding me.",
+          "turn_id": "S7_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, do you need the hotel’s address for the taxi booking?",
+          "turn_id": "S7_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Tessa Kim",
+          "text": "Yes, please! Send it over and I’ll include it in the reservation.",
+          "turn_id": "S7_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Evan Patel",
+          "text": "Nora, do you want me to grab some snacks for the drive back?",
+          "turn_id": "S7_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Nora Patel",
+          "text": "Good idea, Evan. Let’s pick up some fruit at the bakery.",
+          "turn_id": "S7_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Leah Patel",
+          "text": "Marco, is there a spot in the lobby where I can sit and wait while my tablet charges?",
+          "turn_id": "S7_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, Leah. There’s a comfy couch right next to the charging locker.",
+          "turn_id": "S7_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you want a reminder for the taxi van pickup time?",
+          "turn_id": "S7_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Nora Patel",
+          "text": "Yes, please. That’d help us stay on track.",
+          "turn_id": "S7_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Evan Patel",
+          "text": "Marco, thanks for all your help this week. You made everything so easy for us.",
+          "turn_id": "S7_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Marco Ruiz",
+          "text": "It’s been a pleasure, Evan. Safe travels and come back anytime.",
+          "turn_id": "S7_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Leah Patel",
+          "text": "Tessa, thanks for squeezing in the comic shop. I can’t wait!",
+          "turn_id": "S7_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Tessa Kim",
+          "text": "No problem, Leah. I hope you find something cool there!",
+          "turn_id": "S7_T060"
+        }
+      ]
+    },
+    {
+      "session_id": "S8",
+      "turns": [
+        {
+          "turn_idx": 0,
+          "speaker": "Nora Patel",
+          "text": "Hey Tessa, thanks again for helping us pull everything together for the trip. Did you get a chance to check the feedback I sent?",
+          "turn_id": "S8_T001"
+        },
+        {
+          "turn_idx": 1,
+          "speaker": "Tessa Kim",
+          "text": "Yep, I saw your email come in last night. I really appreciate the detailed notes, Nora. Anything else you want me to follow up on?",
+          "turn_id": "S8_T002"
+        },
+        {
+          "turn_idx": 2,
+          "speaker": "Leah Patel",
+          "text": "Marco, thanks for the late checkout. It made packing way less stressful for me.",
+          "turn_id": "S8_T003"
+        },
+        {
+          "turn_idx": 3,
+          "speaker": "Marco Ruiz",
+          "text": "No problem, Leah. Glad it helped. If you ever need anything special next time, just let me know.",
+          "turn_id": "S8_T004"
+        },
+        {
+          "turn_idx": 4,
+          "speaker": "Evan Patel",
+          "text": "Nora, did you remember to grab the charger from the hotel room? I couldn't find it in my bag.",
+          "turn_id": "S8_T005"
+        },
+        {
+          "turn_idx": 5,
+          "speaker": "Nora Patel",
+          "text": "I did! It's in the front pocket of your backpack. I double-checked before we left.",
+          "turn_id": "S8_T006"
+        },
+        {
+          "turn_idx": 6,
+          "speaker": "Tessa Kim",
+          "text": "By the way, I sent over the receipt bundle for your records after the trip.",
+          "turn_id": "S8_T007"
+        },
+        {
+          "turn_idx": 7,
+          "speaker": "Nora Patel",
+          "text": "Awesome, thanks! That'll make sorting out reimbursements way easier.",
+          "turn_id": "S8_T008"
+        },
+        {
+          "turn_idx": 8,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, did the accessible parking work out for you? I know you had some concerns.",
+          "turn_id": "S8_T009"
+        },
+        {
+          "turn_idx": 9,
+          "speaker": "Evan Patel",
+          "text": "Yeah, it was perfect. Thanks for reserving that spot—it made things way smoother.",
+          "turn_id": "S8_T010"
+        },
+        {
+          "turn_idx": 10,
+          "speaker": "Leah Patel",
+          "text": "Tessa, the vegan options you suggested were actually really good. I didn't expect to like the ramen place so much.",
+          "turn_id": "S8_T011"
+        },
+        {
+          "turn_idx": 11,
+          "speaker": "Tessa Kim",
+          "text": "I'm glad you enjoyed it! That spot's a favorite of mine. Want me to save it for your next trip?",
+          "turn_id": "S8_T012"
+        },
+        {
+          "turn_idx": 12,
+          "speaker": "Leah Patel",
+          "text": "Definitely. And maybe something with more dessert options next time?",
+          "turn_id": "S8_T013"
+        },
+        {
+          "turn_idx": 13,
+          "speaker": "Tessa Kim",
+          "text": "Absolutely, I'll add that to your profile. Leah, thanks for the heads-up.",
+          "turn_id": "S8_T014"
+        },
+        {
+          "turn_idx": 14,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, if you need a copy of the invoice for your records, just let me know. I can email it anytime.",
+          "turn_id": "S8_T015"
+        },
+        {
+          "turn_idx": 15,
+          "speaker": "Nora Patel",
+          "text": "That'd be great, Marco. Please send it to the same address as last time.",
+          "turn_id": "S8_T016"
+        },
+        {
+          "turn_idx": 16,
+          "speaker": "Evan Patel",
+          "text": "Tessa, did you get any feedback from the museum about our accessibility request?",
+          "turn_id": "S8_T017"
+        },
+        {
+          "turn_idx": 17,
+          "speaker": "Tessa Kim",
+          "text": "Yes, they said the elevator was fixed before your visit, so everything should've been good. Did you notice any issues?",
+          "turn_id": "S8_T018"
+        },
+        {
+          "turn_idx": 18,
+          "speaker": "Evan Patel",
+          "text": "Nope, everything was accessible. Thanks for checking in advance.",
+          "turn_id": "S8_T019"
+        },
+        {
+          "turn_idx": 19,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you get your favorite tea at the hotel breakfast? I saw you hunting for it.",
+          "turn_id": "S8_T020"
+        },
+        {
+          "turn_idx": 20,
+          "speaker": "Nora Patel",
+          "text": "I did, finally! Marco had it stocked after I asked. It made my morning.",
+          "turn_id": "S8_T021"
+        },
+        {
+          "turn_idx": 21,
+          "speaker": "Marco Ruiz",
+          "text": "Glad you enjoyed it, Nora. If you ever want something special, just ask ahead.",
+          "turn_id": "S8_T022"
+        },
+        {
+          "turn_idx": 22,
+          "speaker": "Tessa Kim",
+          "text": "Evan, did you have any trouble with the luggage storage at the station?",
+          "turn_id": "S8_T023"
+        },
+        {
+          "turn_idx": 23,
+          "speaker": "Evan Patel",
+          "text": "No, it was easy. The lockers were big enough for all our stuff. Thanks for the tip.",
+          "turn_id": "S8_T024"
+        },
+        {
+          "turn_idx": 24,
+          "speaker": "Leah Patel",
+          "text": "Marco, did you see the note I left in the guestbook? I hope it was okay.",
+          "turn_id": "S8_T025"
+        },
+        {
+          "turn_idx": 25,
+          "speaker": "Marco Ruiz",
+          "text": "I did! It was lovely. Thanks for taking the time to write it.",
+          "turn_id": "S8_T026"
+        },
+        {
+          "turn_idx": 26,
+          "speaker": "Leah Patel",
+          "text": "I'm also going to leave a five-star note online for you.",
+          "turn_id": "S8_T027"
+        },
+        {
+          "turn_idx": 27,
+          "speaker": "Marco Ruiz",
+          "text": "Wow, thank you, Leah! That means a lot. Let me know if you need the link for the review site.",
+          "turn_id": "S8_T028"
+        },
+        {
+          "turn_idx": 28,
+          "speaker": "Tessa Kim",
+          "text": "Nora, do you want me to archive your itinerary for future reference?",
+          "turn_id": "S8_T029"
+        },
+        {
+          "turn_idx": 29,
+          "speaker": "Nora Patel",
+          "text": "Yes, please. That'll help if we repeat the trip or share it with friends.",
+          "turn_id": "S8_T030"
+        },
+        {
+          "turn_idx": 30,
+          "speaker": "Evan Patel",
+          "text": "Marco, did you find the umbrella we left in the room? It was Leah's favorite.",
+          "turn_id": "S8_T031"
+        },
+        {
+          "turn_idx": 31,
+          "speaker": "Marco Ruiz",
+          "text": "Yes, I've got it here. I can mail it to your home address if you'd like.",
+          "turn_id": "S8_T032"
+        },
+        {
+          "turn_idx": 32,
+          "speaker": "Leah Patel",
+          "text": "That'd be awesome, thanks! I really miss that umbrella.",
+          "turn_id": "S8_T033"
+        },
+        {
+          "turn_idx": 33,
+          "speaker": "Tessa Kim",
+          "text": "Leah, any other feedback for next time? Anything you wish we'd done differently?",
+          "turn_id": "S8_T034"
+        },
+        {
+          "turn_idx": 34,
+          "speaker": "Leah Patel",
+          "text": "Maybe more time at the art gallery. I felt rushed, but otherwise everything was great.",
+          "turn_id": "S8_T035"
+        },
+        {
+          "turn_idx": 35,
+          "speaker": "Tessa Kim",
+          "text": "Got it, I'll plan for a longer visit next time. Thanks for letting me know.",
+          "turn_id": "S8_T036"
+        },
+        {
+          "turn_idx": 36,
+          "speaker": "Nora Patel",
+          "text": "Evan, did you double-check the train tickets for the return trip? I want to make sure we're all set.",
+          "turn_id": "S8_T037"
+        },
+        {
+          "turn_idx": 37,
+          "speaker": "Evan Patel",
+          "text": "Yeah, they're all confirmed. I got the e-tickets on my phone.",
+          "turn_id": "S8_T038"
+        },
+        {
+          "turn_idx": 38,
+          "speaker": "Marco Ruiz",
+          "text": "Tessa, did you get any feedback about the breakfast menu from the family?",
+          "turn_id": "S8_T039"
+        },
+        {
+          "turn_idx": 39,
+          "speaker": "Tessa Kim",
+          "text": "Yes, Nora mentioned the tea was perfect and Leah liked the fruit selection. No complaints at all.",
+          "turn_id": "S8_T040"
+        },
+        {
+          "turn_idx": 40,
+          "speaker": "Leah Patel",
+          "text": "Mom, did you get a chance to see the city park? I know you wanted to check out the gardens.",
+          "turn_id": "S8_T041"
+        },
+        {
+          "turn_idx": 41,
+          "speaker": "Nora Patel",
+          "text": "I did, but only briefly. Maybe next time we can spend more time there.",
+          "turn_id": "S8_T042"
+        },
+        {
+          "turn_idx": 42,
+          "speaker": "Evan Patel",
+          "text": "Tessa, thanks for handling the last-minute itinerary change. It really helped us fit in everything.",
+          "turn_id": "S8_T043"
+        },
+        {
+          "turn_idx": 43,
+          "speaker": "Tessa Kim",
+          "text": "No worries, Evan. Glad it worked out. Let me know if you need anything else.",
+          "turn_id": "S8_T044"
+        },
+        {
+          "turn_idx": 44,
+          "speaker": "Marco Ruiz",
+          "text": "Nora, did you get all your belongings from the room? I just want to double-check.",
+          "turn_id": "S8_T045"
+        },
+        {
+          "turn_idx": 45,
+          "speaker": "Evan Patel",
+          "text": "We're all set for the 6:10 home train, right?",
+          "turn_id": "S8_T046"
+        },
+        {
+          "turn_idx": 46,
+          "speaker": "Nora Patel",
+          "text": "Yes, that's the one. I've got the tickets and our bags are ready.",
+          "turn_id": "S8_T047"
+        },
+        {
+          "turn_idx": 47,
+          "speaker": "Tessa Kim",
+          "text": "Marco, thanks again for being so accommodating with the accessibility requests.",
+          "turn_id": "S8_T048"
+        },
+        {
+          "turn_idx": 48,
+          "speaker": "Marco Ruiz",
+          "text": "Of course, Tessa. It's important to us that every guest feels comfortable.",
+          "turn_id": "S8_T049"
+        },
+        {
+          "turn_idx": 49,
+          "speaker": "Leah Patel",
+          "text": "Dad, did you remember to pack my headphones? I can't find them.",
+          "turn_id": "S8_T050"
+        },
+        {
+          "turn_idx": 50,
+          "speaker": "Evan Patel",
+          "text": "They're in your suitcase, front pocket. I checked before we left.",
+          "turn_id": "S8_T051"
+        },
+        {
+          "turn_idx": 51,
+          "speaker": "Nora Patel",
+          "text": "Tessa, can you send me a summary of the trip for my records? Just the highlights.",
+          "turn_id": "S8_T052"
+        },
+        {
+          "turn_idx": 52,
+          "speaker": "Tessa Kim",
+          "text": "Sure thing, I'll email it by tomorrow. Anything specific you want included?",
+          "turn_id": "S8_T053"
+        },
+        {
+          "turn_idx": 53,
+          "speaker": "Nora Patel",
+          "text": "Just the main activities and any notes on accessibility or food. Thanks!",
+          "turn_id": "S8_T054"
+        },
+        {
+          "turn_idx": 54,
+          "speaker": "Marco Ruiz",
+          "text": "Evan, if you ever need recommendations for next time, let me know. I know a few hidden gems.",
+          "turn_id": "S8_T055"
+        },
+        {
+          "turn_idx": 55,
+          "speaker": "Evan Patel",
+          "text": "Will do, Marco. We love discovering new spots.",
+          "turn_id": "S8_T056"
+        },
+        {
+          "turn_idx": 56,
+          "speaker": "Leah Patel",
+          "text": "Tessa, thanks for making everything so easy. I actually felt like I could relax this time.",
+          "turn_id": "S8_T057"
+        },
+        {
+          "turn_idx": 57,
+          "speaker": "Tessa Kim",
+          "text": "That makes me happy to hear, Leah. Let me know if you want to tweak anything for your next trip.",
+          "turn_id": "S8_T058"
+        },
+        {
+          "turn_idx": 58,
+          "speaker": "Nora Patel",
+          "text": "Marco, thanks for mailing the umbrella. Let us know if you need anything else from us.",
+          "turn_id": "S8_T059"
+        },
+        {
+          "turn_idx": 59,
+          "speaker": "Marco Ruiz",
+          "text": "You're welcome, Nora. Safe travels home, and hope to see you all again soon!",
+          "turn_id": "S8_T060"
+        }
+      ]
+    }
+  ],
+  "qa": [
+    {
+      "question": "Who was Nora Patel speaking to when she said she’d really like a quiet room away from the elevator?",
+      "answer": "Tessa Kim",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Evan Patel speaking to when he asked about the 7:20 train?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who did Leah Patel send her message to about the science museum?",
+      "answer": "Tessa Kim",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Marco Ruiz speaking to when he said, 'Your confirmed room number is room 412'?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who did Nora Patel address her request about a peanut-free breakfast to?",
+      "answer": "Marco Ruiz",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Evan Patel speaking to when he said, 'We’ll need one parking pass when we arrive'?",
+      "answer": "Marco Ruiz",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Evan Patel talking to when he asked, 'Which bag do you need to keep with you? The blue carry-on?'",
+      "answer": "Leah Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Tessa Kim talking to when she said, \"Your train leaves from platform 6\"?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Nora Patel talking to when she said, \"The larger cases should go to the hotel luggage desk\"?",
+      "answer": "Evan Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Leah Patel speaking to when she asked about the 11:30 entry slot?",
+      "answer": "Tessa Kim",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Tessa Kim speaking to when she asked about reserving two mobility stools for the museum visit?",
+      "answer": "Marco Ruiz",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Marco Ruiz talking to when he said, 'You'll want to use the east entrance—it avoids the stairs.'?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Tessa Kim speaking to when she mentioned the 3 p.m. walking tour?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Nora Patel speaking to when she said, 'Don’t forget to pack rain jackets for everyone, please.'?",
+      "answer": "Leah Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Evan Patel addressing when he said, \"Let’s cancel the river boat since the weather’s not cooperating.\"?",
+      "answer": "Tessa Kim",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Marco Ruiz recommending the garden cafe to in his breakfast suggestion?",
+      "answer": "Nora Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Nora Patel speaking to when she asked about avoiding sesame garnish on Leah's orders?",
+      "answer": "Marco Ruiz",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was the person being spoken to when the message 'Nice choice! I’ll make sure Tessa checks if it’s safe for you.' was sent?",
+      "answer": "Leah Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Evan Patel talking to when he said, 'We’re aiming for an 8:45 a.m. checkout'?",
+      "answer": "Marco Ruiz",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "Who was Marco Ruiz talking to when he said, 'You can use the lobby charging locker for your tablet'?",
+      "answer": "Leah Patel",
+      "type": "addressee_attribution"
+    },
+    {
+      "question": "What did Tessa Kim send after the trip for recordkeeping?",
+      "answer": "the receipt bundle",
+      "type": "adversarial"
+    },
+    {
+      "question": "What specific rating did Leah Patel say she would leave online?",
+      "answer": "five-star note",
+      "type": "adversarial"
+    },
+    {
+      "question": "Which train did Evan Patel confirm they were set for?",
+      "answer": "the 6:10 home train",
+      "type": "adversarial"
+    },
+    {
+      "question": "What is the later plan after the earlier 11:30 entry slot?",
+      "answer": "a 3 p.m. walking tour",
+      "type": "conflict_detection"
+    },
+    {
+      "question": "Where can you stay to avoid elevator noise and what time is the walking tour that keeps you dry?",
+      "answer": "a quiet room away from the elevator; a 3 p.m. walking tour",
+      "type": "multi_hop"
+    },
+    {
+      "question": "Which train are we taking, and what should we remember to pack for everyone?",
+      "answer": "the 7:20 train; rain jackets",
+      "type": "multi_hop"
+    },
+    {
+      "question": "Which attraction should be prioritized given the weather, the science museum or the river boat?",
+      "answer": "the science museum",
+      "type": "multi_hop"
+    },
+    {
+      "question": "Which room is confirmed for the guest, and where is breakfast recommended?",
+      "answer": "room 412; the garden cafe",
+      "type": "multi_hop"
+    },
+    {
+      "question": "What kind of breakfast should be prepared to meet the family's requests about peanuts and sesame?",
+      "answer": "a peanut-free breakfast; no sesame garnish",
+      "type": "multi_hop"
+    },
+    {
+      "question": "What parking pass and dinner choice should be prepared for the arrival?",
+      "answer": "one parking pass; the lemon pasta",
+      "type": "multi_hop"
+    },
+    {
+      "question": "What bag needs to be kept and by what time should checkout happen?",
+      "answer": "the blue carry-on; 8:45 a.m. checkout",
+      "type": "multi_hop"
+    },
+    {
+      "question": "Where should you catch your train and charge your tablet before departure?",
+      "answer": "platform 6; the lobby charging locker",
+      "type": "multi_hop"
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "answer": "a written itinerary",
+      "type": "personalization"
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "answer": "a quick call",
+      "type": "personalization"
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "answer": "a text with a map pin",
+      "type": "personalization"
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "answer": "a front-desk message",
+      "type": "personalization"
+    },
+    {
+      "question": "What kind of update did I say I prefer?",
+      "answer": "a shared trip note",
+      "type": "personalization"
+    },
+    {
+      "question": "How should you send me the next update?",
+      "answer": "a written itinerary",
+      "type": "personalization_application"
+    },
+    {
+      "question": "How should you send me the next update?",
+      "answer": "a quick call",
+      "type": "personalization_application"
+    },
+    {
+      "question": "How should you send me the next update?",
+      "answer": "a text with a map pin",
+      "type": "personalization_application"
+    },
+    {
+      "question": "How should you send me the next update?",
+      "answer": "a front-desk message",
+      "type": "personalization_application"
+    },
+    {
+      "question": "How should you send me the next update?",
+      "answer": "a shared trip note",
+      "type": "personalization_application"
+    },
+    {
+      "question": "What kind of room is being requested?",
+      "answer": "a quiet room away from the elevator",
+      "type": "single_hop"
+    },
+    {
+      "question": "What time is our train booked for?",
+      "answer": "the 7:20 train",
+      "type": "single_hop"
+    },
+    {
+      "question": "Which attraction does Leah really want to visit?",
+      "answer": "the science museum",
+      "type": "single_hop"
+    },
+    {
+      "question": "What is the confirmed room number?",
+      "answer": "room 412",
+      "type": "single_hop"
+    },
+    {
+      "question": "Can we have a breakfast option that doesn't include peanuts?",
+      "answer": "peanut-free breakfast",
+      "type": "single_hop"
+    },
+    {
+      "question": "How many parking passes will we need when we arrive?",
+      "answer": "one parking pass",
+      "type": "single_hop"
+    },
+    {
+      "question": "What is the bag that needs to stay with you?",
+      "answer": "the blue carry-on",
+      "type": "single_hop"
+    },
+    {
+      "question": "Which platform does my train depart from?",
+      "answer": "platform 6",
+      "type": "single_hop"
+    },
+    {
+      "question": "Where should the larger cases be taken?",
+      "answer": "the hotel luggage desk",
+      "type": "single_hop"
+    },
+    {
+      "question": "What is the scheduled entry time?",
+      "answer": "11:30",
+      "type": "single_hop"
+    },
+    {
+      "question": "How many mobility stools are requested for the museum visit?",
+      "answer": "two mobility stools",
+      "type": "single_hop"
+    },
+    {
+      "question": "Which entrance should I use to avoid the stairs?",
+      "answer": "the east entrance",
+      "type": "single_hop"
+    },
+    {
+      "question": "What time is the walking tour that stays mostly under covered arcades?",
+      "answer": "a 3 p.m. walking tour",
+      "type": "single_hop"
+    },
+    {
+      "question": "What should be packed for everyone according to the message?",
+      "answer": "rain jackets",
+      "type": "single_hop"
+    },
+    {
+      "question": "What should be done about the river boat due to the weather?",
+      "answer": "cancel the river boat",
+      "type": "single_hop"
+    },
+    {
+      "question": "Where does Marco suggest going for breakfast if you have allergies?",
+      "answer": "the garden cafe",
+      "type": "single_hop"
+    },
+    {
+      "question": "What should be avoided as a garnish on Leah's orders?",
+      "answer": "sesame",
+      "type": "single_hop"
+    },
+    {
+      "question": "What dish does Leah want for dinner?",
+      "answer": "the lemon pasta",
+      "type": "single_hop"
+    },
+    {
+      "question": "What time are we planning to check out?",
+      "answer": "8:45 a.m. checkout",
+      "type": "single_hop"
+    },
+    {
+      "question": "Where can I charge my tablet in the building?",
+      "answer": "the lobby charging locker",
+      "type": "single_hop"
+    },
+    {
+      "question": "Who asked about arranging a taxi van for the return trip?",
+      "answer": "Nora Patel",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who said they sent over the receipt bundle for your records after the trip?",
+      "answer": "Tessa Kim",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who said they would leave a five-star note online?",
+      "answer": "Leah Patel",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who said, \"We're all set for the 6:10 home train, right?\"",
+      "answer": "Evan Patel",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who mentioned that there’s a 3 p.m. walking tour mostly under covered arcades?",
+      "answer": "Tessa Kim",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who reminded everyone to pack rain jackets?",
+      "answer": "Nora Patel",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "Who said, 'Let’s cancel the river boat since the weather’s not cooperating'?",
+      "answer": "Evan Patel",
+      "type": "speaker_attribution"
+    },
+    {
+      "question": "What special request should be followed for Leah's orders now?",
+      "answer": "no sesame garnish",
+      "type": "temporal"
+    },
+    {
+      "question": "What did Leah Patel say she wanted for dinner?",
+      "answer": "the lemon pasta",
+      "type": "temporal"
+    },
+    {
+      "question": "What time are they planning to check out now?",
+      "answer": "8:45 a.m. checkout",
+      "type": "temporal"
+    },
+    {
+      "question": "Where should the tablet be charged now after the earlier room assignment?",
+      "answer": "the lobby charging locker",
+      "type": "temporal"
+    },
+    {
+      "question": "What kind of transportation was arranged for the family's return trip after discussing breakfast options?",
+      "answer": "a taxi van",
+      "type": "temporal"
+    },
+    {
+      "question": "What was sent for records after the trip?",
+      "answer": "the receipt bundle",
+      "type": "temporal"
+    }
+  ]
+}
