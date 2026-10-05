@@ -1,7 +1,7 @@
-# VoxPolyBench website preview
+# VoxPolyBench
 
-This repository hosts a static research-preview website with one selected, synthesized-audio history. It includes eight compressed dialogue sessions, ten spoken personalized questions, 480 dialogue turns, and 75 question–answer examples for that history. It is not the full benchmark or the VoxPolyMem implementation.
+VoxPolyBench is a benchmark for long-term, multi-party spoken conversational memory. This repository hosts a public preview of one representative history with synthesized audio: eight dialogue sessions, 480 turns, and 75 question–answer examples, including ten spoken personalized questions.
 
-Once GitHub Pages is enabled for the `main` branch at the repository root, the site is available at [voxpolymem.github.io/VoxPolyBench](https://voxpolymem.github.io/VoxPolyBench/).
+Explore the preview at [voxpolymem.github.io/VoxPolyBench](https://voxpolymem.github.io/VoxPolyBench/).
 
-To preview locally from the repository root, run `python3 -m http.server 8771` and open `http://127.0.0.1:8771/`. The site has no build step. Audio is supplied as compressed MP3 files; the original turn-level WAVs are not part of this repository.
+This website is not the complete benchmark or the VoxPolyMem implementation.
